@@ -1,4 +1,4 @@
-baseURL = "http://matt40k.uk/"
+baseURL = "//lifeguard-dictionaries-30240.netlify.com"
 languageCode = "en-GB"
 title = "Matt40k &#8211; BI Developer based in Ipswich, Suffolk, UK"
 theme = "hyde"
