@@ -1,0 +1,4 @@
+baseURL = "http://matt40k.uk/"
+languageCode = "en-GB"
+title = "Matt40k &#8211; BI Developer based in Ipswich, Suffolk, UK"
+theme = "hyde"
