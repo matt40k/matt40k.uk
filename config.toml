@@ -1,4 +1,5 @@
 baseURL = "//lifeguard-dictionaries-30240.netlify.com/"
 languageCode = "en-GB"
-title = "Matt40k &#8211; BI Developer based in Ipswich, Suffolk, UK"
+title = "Matt40k"
+description = "Developer based in Ipswich, Suffolk, UK"
 theme = "hyde"
