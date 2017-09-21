@@ -13,7 +13,7 @@ categories:
 ---
 Yesterday I went to investigate a problem someone had reported only to discover a butt load of releases
 
-<a href="//matt40k.uk/img/2016/08/img_4294.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-822" src="//matt40k.uk/img/2016/08/img_4294.png" alt="" width="1334" height="750" srcset="https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4294.png 1334w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4294-300x169.png 300w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4294-768x432.png 768w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4294-1024x576.png 1024w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4294-1200x675.png 1200w" sizes="(max-width: 1334px) 100vw, 1334px" /></a>
+<a href="//matt40k.uk/img/2016/08/img_4294.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-822" src="//matt40k.uk/img/2016/08/img_4294.png" alt="" width="1334" height="750" srcset="//matt40k.uk/img/2016/08/img_4294.png 1334w, //matt40k.uk/img/2016/08/img_4294-300x169.png 300w, //matt40k.uk/img/2016/08/img_4294-768x432.png 768w, //matt40k.uk/img/2016/08/img_4294-1024x576.png 1024w, //matt40k.uk/img/2016/08/img_4294-1200x675.png 1200w" sizes="(max-width: 1334px) 100vw, 1334px" /></a>
   
 As you can see, I have more releases then commits. A build was triggered by a commit, but this doesn&#8217;t explain why.
 
@@ -21,7 +21,7 @@ I tried switching it up so it only builds when you put [build] in the commit mes
 
 Looking at the build history revealed it was looping, per commit
 
-<a href="//matt40k.uk/img/2016/08/img_4296.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-824" src="//matt40k.uk/img/2016/08/img_4296.png" alt="" width="1334" height="750" srcset="https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4296.png 1334w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4296-300x169.png 300w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4296-768x432.png 768w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4296-1024x576.png 1024w, https://publish.matt40k.uk/wp-content/uploads/2016/08/img_4296-1200x675.png 1200w" sizes="(max-width: 1334px) 100vw, 1334px" /></a>
+<a href="//matt40k.uk/img/2016/08/img_4296.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-824" src="//matt40k.uk/img/2016/08/img_4296.png" alt="" width="1334" height="750" srcset="//matt40k.uk/img/2016/08/img_4296.png 1334w, //matt40k.uk/img/2016/08/img_4296-300x169.png 300w, //matt40k.uk/img/2016/08/img_4296-768x432.png 768w, //matt40k.uk/img/2016/08/img_4296-1024x576.png 1024w, //matt40k.uk/img/2016/08/img_4296-1200x675.png 1200w" sizes="(max-width: 1334px) 100vw, 1334px" /></a>
 
 An email off to support resulted in speedy response.
 

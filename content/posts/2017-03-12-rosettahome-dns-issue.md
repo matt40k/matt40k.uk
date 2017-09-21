@@ -10,7 +10,7 @@ tags:
   - Rosetta@Home
 
 ---
-If you ever need a lesson in the importance of picking a <a href="https://www.mythic-beasts.com/" target="_blank" rel="nofollow">good domain registrar</a>, then read about <a href="https://matt40k.uk/2014/12/4th-anniversary-of-contributing-to-rosettahome/" target="_blank" rel="nofollow">Rosetta@Home</a> recent problems.
+If you ever need a lesson in the importance of picking a <a href="https://www.mythic-beasts.com/" target="_blank" rel="nofollow">good domain registrar</a>, then read about <a href="//matt40k.uk/2014/12/4th-anniversary-of-contributing-to-rosettahome/" target="_blank" rel="nofollow">Rosetta@Home</a> recent problems.
 
 > Dear Rosetta@Home participants,
 > 

@@ -13,7 +13,7 @@ categories:
   - SSRS
 
 ---
-I had previously created a SSIS package with a simple Process Full on the SSAS MD database, however, as the project has progressed this hasn&#8217;t been ideal. Its basically all or nothing. In order reduce the damage a failure can cause I&#8217;ve setup a Process Full for each dimension and cube so each is processed independently of each other. I&#8217;ve used the data from the Analysis Services Dynamic Management Views, or DMV for short, which I&#8217;ve <a href="https://matt40k.uk/2015/08/documentation/" target="_blank" rel="nofollow">used for the documentation</a> to feed the foreach loop.
+I had previously created a SSIS package with a simple Process Full on the SSAS MD database, however, as the project has progressed this hasn&#8217;t been ideal. Its basically all or nothing. In order reduce the damage a failure can cause I&#8217;ve setup a Process Full for each dimension and cube so each is processed independently of each other. I&#8217;ve used the data from the Analysis Services Dynamic Management Views, or DMV for short, which I&#8217;ve <a href="//matt40k.uk/2015/08/documentation/" target="_blank" rel="nofollow">used for the documentation</a> to feed the foreach loop.
 
 However there is a major problem with the DMVs. They only list processed cubes (and their dimensions). So how do you get a list of unprocessed cubes (and their dimensions)?
 

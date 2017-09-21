@@ -14,7 +14,7 @@ tags:
 ---
 I was re-entering my password into our <a href="https://www.nowtv.com/tv-boxes" target="_blank" rel="nofollow">NowTV box</a> in the bedroom when it occurred to me. Authentication sucks on the Internet of Things (IoT). The problem is you have a simple device with minimal extras. On the NowTV you have a basic remote that looks like this:
 
-<a href="//matt40k.uk/img/2017/01/nowtv_remote.jpg" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-2380" src="//matt40k.uk/img/2017/01/nowtv_remote.jpg" alt="" width="800" height="450" srcset="https://publish.matt40k.uk/wp-content/uploads/2017/01/nowtv_remote.jpg 800w, https://publish.matt40k.uk/wp-content/uploads/2017/01/nowtv_remote-300x169.jpg 300w, https://publish.matt40k.uk/wp-content/uploads/2017/01/nowtv_remote-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+<a href="//matt40k.uk/img/2017/01/nowtv_remote.jpg" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-2380" src="//matt40k.uk/img/2017/01/nowtv_remote.jpg" alt="" width="800" height="450" srcset="//matt40k.uk/img/2017/01/nowtv_remote.jpg 800w, //matt40k.uk/img/2017/01/nowtv_remote-300x169.jpg 300w, //matt40k.uk/img/2017/01/nowtv_remote-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
 Can you imagine entering a password with a length of over 20 that&#8217;s a mixture of numbers, special characters and both upper and lower case characters? Now imagine changing that password. Regularly.
 

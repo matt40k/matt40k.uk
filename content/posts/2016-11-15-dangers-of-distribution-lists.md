@@ -45,6 +45,6 @@ Below is the M code to do this:
 <div class="gist-oembed" data-gist="matt40k/ad9aa51201e73f112e790655fb90049a.json">
 </div>
 
-<a href="https://matt40k.uk/2016/06/getting-a-list-of-ad-groups-and-their-members-using-powerquery/" target="_blank" rel="nofollow">For more help on how to enter the M code into Excel see my previous post.</a>
+<a href="//matt40k.uk/2016/06/getting-a-list-of-ad-groups-and-their-members-using-powerquery/" target="_blank" rel="nofollow">For more help on how to enter the M code into Excel see my previous post.</a>
 
 UPDATE: Please note that this only works with Active Directory and doesn&#8217;t work with Azure Active Directory. Others have said this is possible via odata or such however I haven&#8217;t tried&#8230; yet.

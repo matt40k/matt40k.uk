@@ -12,7 +12,7 @@ I don&#8217;t know a lot about Collation &#8211; I know how to set it in SQL Ser
 
 Today however, this happened
 
-<a href="//matt40k.uk/img/2015/11/collation.png" target="_blank" rel="nofollow"><img class="alignnone wp-image-501 size-full" src="//matt40k.uk/img/2015/11/collation.png" alt="collation" width="948" height="67" srcset="https://publish.matt40k.uk/wp-content/uploads/2015/11/collation.png 948w, https://publish.matt40k.uk/wp-content/uploads/2015/11/collation-300x21.png 300w, https://publish.matt40k.uk/wp-content/uploads/2015/11/collation-648x46.png 648w, https://publish.matt40k.uk/wp-content/uploads/2015/11/collation-583x41.png 583w" sizes="(max-width: 948px) 100vw, 948px" /></a>
+<a href="//matt40k.uk/img/2015/11/collation.png" target="_blank" rel="nofollow"><img class="alignnone wp-image-501 size-full" src="//matt40k.uk/img/2015/11/collation.png" alt="collation" width="948" height="67" srcset="//matt40k.uk/img/2015/11/collation.png 948w, //matt40k.uk/img/2015/11/collation-300x21.png 300w, //matt40k.uk/img/2015/11/collation-648x46.png 648w, //matt40k.uk/img/2015/11/collation-583x41.png 583w" sizes="(max-width: 948px) 100vw, 948px" /></a>
 
 Turns out in the VS SSDT package, I have forgotten to set one of the databases collation in project settings to Latin1\_General\_CI_AS to match the default on SQL Server (rather then the VS SSDT default)
 

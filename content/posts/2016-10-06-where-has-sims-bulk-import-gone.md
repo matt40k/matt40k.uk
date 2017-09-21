@@ -39,7 +39,7 @@ Make sure you have the latest (or should that be last) version &#8211; its **2.5
 
 It should be digital signed, think of it as SSL for your applications. If you right-click on **SIMSBulkImport.exe** or the .msi installer you should see an extra tab &#8211; **Digital Signature** and you should see its signed by me &#8211; **Open Source Developer, Matt40k**. If your copy doesn&#8217;t have the signature its possible code has been injected and it is unsafe.
 
-<a href="//matt40k.uk/img/2016/10/digitalSignature.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-873" src="//matt40k.uk/img/2016/10/digitalSignature.png" alt="digitalsignature" width="396" height="280" srcset="https://publish.matt40k.uk/wp-content/uploads/2016/10/digitalSignature.png 396w, https://publish.matt40k.uk/wp-content/uploads/2016/10/digitalSignature-300x212.png 300w" sizes="(max-width: 396px) 100vw, 396px" /></a>
+<a href="//matt40k.uk/img/2016/10/digitalSignature.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-873" src="//matt40k.uk/img/2016/10/digitalSignature.png" alt="digitalsignature" width="396" height="280" srcset="//matt40k.uk/img/2016/10/digitalSignature.png 396w, //matt40k.uk/img/2016/10/digitalSignature-300x212.png 300w" sizes="(max-width: 396px) 100vw, 396px" /></a>
 
 You should be OK as it uses whatever version of SIMS API you have installed, so it&#8217;ll just break one day and by break I mean it won&#8217;t let you login or will just give you all import failed (if it does fail in terms of SIMS database corrupt then some thing terrible has happened with Capita API, but I digress).
 

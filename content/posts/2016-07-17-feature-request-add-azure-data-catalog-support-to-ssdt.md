@@ -17,6 +17,6 @@ The first step in the designing a warehouse is discovery, <a href="https://azure
 
 My feature request is to add support for Azure Data Catalog to SSDT. In a nutshell add a item to this menu list
 
-<a href="//matt40k.uk/img/2016/07/IWouldLike.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-795" src="//matt40k.uk/img/2016/07/IWouldLike.png" alt="Feature request - SSDT" width="727" height="294" srcset="https://publish.matt40k.uk/wp-content/uploads/2016/07/IWouldLike.png 727w, https://publish.matt40k.uk/wp-content/uploads/2016/07/IWouldLike-300x121.png 300w" sizes="(max-width: 727px) 100vw, 727px" /></a>
+<a href="//matt40k.uk/img/2016/07/IWouldLike.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-795" src="//matt40k.uk/img/2016/07/IWouldLike.png" alt="Feature request - SSDT" width="727" height="294" srcset="//matt40k.uk/img/2016/07/IWouldLike.png 727w, //matt40k.uk/img/2016/07/IWouldLike-300x121.png 300w" sizes="(max-width: 727px) 100vw, 727px" /></a>
 
 &nbsp;

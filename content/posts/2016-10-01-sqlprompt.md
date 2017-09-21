@@ -37,11 +37,11 @@ In mine had a <a href="https://www.red-gate.com/products/sql-development/sql-pro
 
 Like the IntelliSense&#8230; or the fact press table next to the * expands it out into the list of columns
 
-<a href="//matt40k.uk/img/2016/09/SQLPrompt_1.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-859" src="//matt40k.uk/img/2016/09/SQLPrompt_1.png" alt="sqlprompt_1" width="944" height="331" srcset="https://publish.matt40k.uk/wp-content/uploads/2016/09/SQLPrompt_1.png 944w, https://publish.matt40k.uk/wp-content/uploads/2016/09/SQLPrompt_1-300x105.png 300w, https://publish.matt40k.uk/wp-content/uploads/2016/09/SQLPrompt_1-768x269.png 768w" sizes="(max-width: 944px) 100vw, 944px" /></a>
+<a href="//matt40k.uk/img/2016/09/SQLPrompt_1.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-859" src="//matt40k.uk/img/2016/09/SQLPrompt_1.png" alt="sqlprompt_1" width="944" height="331" srcset="//matt40k.uk/img/2016/09/SQLPrompt_1.png 944w, //matt40k.uk/img/2016/09/SQLPrompt_1-300x105.png 300w, //matt40k.uk/img/2016/09/SQLPrompt_1-768x269.png 768w" sizes="(max-width: 944px) 100vw, 944px" /></a>
 
 The fact it re-opens the tables you had open the last time you were in SQL Management Studio, that it has a history. I&#8217;d like to say I never close the wrong window, especially when I haven&#8217;t saved them, but I do. Luckily with SQL Prompt it allows me reopen it.
 
-<a href="//matt40k.uk/img/2016/09/SQLPrompt_2.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-860" src="//matt40k.uk/img/2016/09/SQLPrompt_2.png" alt="sqlprompt_2" width="819" height="519" srcset="https://publish.matt40k.uk/wp-content/uploads/2016/09/SQLPrompt_2.png 819w, https://publish.matt40k.uk/wp-content/uploads/2016/09/SQLPrompt_2-300x190.png 300w, https://publish.matt40k.uk/wp-content/uploads/2016/09/SQLPrompt_2-768x487.png 768w" sizes="(max-width: 819px) 100vw, 819px" /></a>
+<a href="//matt40k.uk/img/2016/09/SQLPrompt_2.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-860" src="//matt40k.uk/img/2016/09/SQLPrompt_2.png" alt="sqlprompt_2" width="819" height="519" srcset="//matt40k.uk/img/2016/09/SQLPrompt_2.png 819w, //matt40k.uk/img/2016/09/SQLPrompt_2-300x190.png 300w, //matt40k.uk/img/2016/09/SQLPrompt_2-768x487.png 768w" sizes="(max-width: 819px) 100vw, 819px" /></a>
 
 It even stops DBAs going to jail :p
 
