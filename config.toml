@@ -2,6 +2,8 @@ baseURL = "//lifeguard-dictionaries-30240.netlify.com/"
 languageCode = "en-GB"
 title = "Matt40k"
 theme = "hyde"
+enableRobotsTXT = true	# Build robots.txt file
+
 [params]
   description = "Developer based in Ipswich, Suffolk, UK"
   copyright = ""
