@@ -7,5 +7,5 @@ enableRobotsTXT = true	# Build robots.txt file
 [params]
   description = "Developer based in Ipswich, Suffolk, UK"
   copyright = ""
-  themeColor = "theme-base-0d"
+  themeColor = "theme-base-09"
   layoutReverse = true
