@@ -15,15 +15,13 @@ tags:
 
 The solution was <a href="http://wp-cli.org/" target="_blank" rel="nofollow">WP-CLI</a>. With the shell add-on, I SSH onto my account, then
 
-<div class="gist-oembed" data-gist="matt40k/8efec92c6568a4f363be595568366970.json?file=setup">
-</div>
+{{< gist matt40k 8efec92c6568a4f363be595568366970 "setup" >}}
 
 What the above script does is download WP-CLI, grant it execute permission, then downloads my script and again, gives it execute permission.
 
 Then its question of create a cron job using crontab, this can be done by running crontab -e then doing something like: (this runs the script every 15mins and redirects the output to a log file that gets overwrite each time it runs*)
 
-<div class="gist-oembed" data-gist="matt40k/8efec92c6568a4f363be595568366970.json?file=crontab">
-</div>
+{{< gist matt40k 8efec92c6568a4f363be595568366970 "crontab" >}}
 
 > Note:
 > 
@@ -31,7 +29,4 @@ Then its question of create a cron job using crontab, this can be done by runnin
 
 Below is the final script that executes WP-CLI
 
-<div class="gist-oembed" data-gist="matt40k/8efec92c6568a4f363be595568366970.json?file=wp_update.sh">
-</div>
-
-&nbsp;
+{{< gist matt40k 8efec92c6568a4f363be595568366970 "wp_update.sh" >}}
