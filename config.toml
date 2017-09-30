@@ -3,6 +3,7 @@ languageCode = "en-GB"
 title = "Matt40k"
 theme = "hyde"
 enableRobotsTXT = true	# Build robots.txt file
+googleAnalytics = "UA-47831226-3"
 
 [params]
   description = "Developer based in Ipswich, Suffolk, UK"
