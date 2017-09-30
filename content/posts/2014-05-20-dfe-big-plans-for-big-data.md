@@ -15,11 +15,11 @@ An interesting debate erupted on <a href="http://www.edugeek.net/forums/mis-syst
 
 The crux of the <a href="https://www.gov.uk/government/organisations/department-for-education" target="_blank" rel="nofollow">DfE</a> goal is turn the very manual processes they have:
 
-<a href="//matt40k.uk/img/2014/05/DfE_Current1.png" target="_blank" rel="nofollow"><img class="alignnone wp-image-27 size-full" src="//matt40k.uk/wp-content/uploads/2014/05/DfE_Current.png" alt="DfE_Current" width="960" height="720" /></a>
+<a href="//matt40k.uk/img/2014/05/DfE_Current1.png" target="_blank" rel="nofollow"><img class="alignnone wp-image-27 size-full" src="//matt40k.uk/img/2014/05/DfE_Current.png" alt="DfE_Current" width="960" height="720" /></a>
 
 into something a lot more streamlined:
 
-<a href="//matt40k.uk/img/2014/05/DfE_Future1.png" target="_blank" rel="nofollow"><img class="alignnone wp-image-28 size-full" src="//matt40k.uk/wp-content/uploads/2014/05/DfE_Future.png" alt="DfE_Future" width="960" height="720" /></a>
+<a href="//matt40k.uk/img/2014/05/DfE_Future1.png" target="_blank" rel="nofollow"><img class="alignnone wp-image-28 size-full" src="//matt40k.uk/img/2014/05/DfE_Future.png" alt="DfE_Future" width="960" height="720" /></a>
 
 (Thanks to <a href="http://www.edugeek.net/forums/mis-systems/136314-data-transfer-changing-sims-3.html#post1169933" target="_blank" rel="nofollow">Phillip Hamlyn</a> at <a href="http://www.capita-sims.co.uk/" target="_blank" rel="nofollow">Capita</a> for sharing the link to <a href="https://online.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?site=1000&lang=en&noticeid=1282858&fs=true" target="_blank" rel="nofollow">DfE documents</a>)
 

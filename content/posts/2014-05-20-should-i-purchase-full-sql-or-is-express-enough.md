@@ -19,6 +19,6 @@ So why should you shell out of Standard edition? Now to be fair to <a href="http
 
 When deciding what edition of SQL to use, I normally follow the following diagram
 
-<img class="aligncenter wp-image-16 size-full" src="//matt40k.uk/wp-content/uploads/2014/05/SQL_Edition_Decision_Tree.png" alt="Which SQL Edition is right for me?" width="415" height="543" />
+<img class="aligncenter wp-image-16 size-full" src="//matt40k.uk/img/2014/05/SQL_Edition_Decision_Tree.png" alt="Which SQL Edition is right for me?" width="415" height="543" />
 
 I simply believe a Primary school doesn&#8217;t need SQL Standard edition. Secondary schools who use <a href="http://www.capita-sims.co.uk/our-products/sims-lesson-monitor-secondary-schools-and-academies" target="_blank" rel="nofollow">Lesson Monitor</a>, a <a href="http://www.capita-sims.co.uk/" target="_blank" rel="nofollow">Capita</a> bolt-on module that is used for recording attendance for individual lessons rather then just AMPM, will be using the system pretty much all day rather then just morning and afternoons, so your concurrent users will be alot higher and therefore require more then 1GB RAM. It&#8217;s rare that a Secondary school will not be recording individual lessons, however other bolt-ons exist from third parties that will allow the same thing but not have the same impact on the server, so you may be able to get away with Express by using a web based bolt-on.

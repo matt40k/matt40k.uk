@@ -68,4 +68,4 @@ Take the first one, **Network Impact of SIMS** &#8211; to quote a bit of it:
   </div>
 </div>
 
-<a href="//matt40k.uk/img/2014/05/cloud-rev1.png" target="_blank" rel="nofollow"><img class="size-full wp-image-89 aligncenter" src="//matt40k.uk/wp-content/uploads/2014/05/cloud-rev.png" alt="Cloud revolution" width="300" height="177" /></a>
+<a href="//matt40k.uk/img/2014/05/cloud-rev1.png" target="_blank" rel="nofollow"><img class="size-full wp-image-89 aligncenter" src="//matt40k.uk/img/2014/05/cloud-rev.png" alt="Cloud revolution" width="300" height="177" /></a>

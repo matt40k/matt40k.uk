@@ -13,7 +13,7 @@ Well it appears Capita has announced SOLUS2 death day
 
 &nbsp;
 
-<a href="//matt40k.uk/img/2014/06/s2_end_twitter1.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-117" src="//matt40k.uk/wp-content/uploads/2014/06/s2_end_twitter.png" alt="s2_end_twitter" width="562" height="166" /></a>
+<a href="//matt40k.uk/img/2014/06/s2_end_twitter1.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-117" src="//matt40k.uk/img/2014/06/s2_end_twitter.png" alt="s2_end_twitter" width="562" height="166" /></a>
 
 &nbsp;
 

@@ -12,7 +12,7 @@ tags:
 ---
 I received NameCheap newsletter today full of annoying holes (at least for me), needless to say I hit the unsubscribe button shortly after.
 
-<a href="//matt40k.uk/img/2014/06/namecheap1.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-124" src="//matt40k.uk/wp-content/uploads/2014/06/namecheap1.png" alt="namecheap1" width="631" height="286" /></a>
+<a href="//matt40k.uk/img/2014/06/namecheap1.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-124" src="//matt40k.uk/img/2014/06/namecheap1.png" alt="namecheap1" width="631" height="286" /></a>
 
 &nbsp;
 
@@ -22,7 +22,7 @@ $1, one dollar!! You&#8217;re trying to promote .UK, use the local currency, usi
 
 &nbsp;
 
-<a href="//matt40k.uk/img/2014/06/namecheap2.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-125" src="//matt40k.uk/wp-content/uploads/2014/06/namecheap2.png" alt="namecheap2" width="634" height="401" /></a>
+<a href="//matt40k.uk/img/2014/06/namecheap2.png" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-125" src="//matt40k.uk/img/2014/06/namecheap2.png" alt="namecheap2" width="634" height="401" /></a>
 
 &nbsp;
 
