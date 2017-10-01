@@ -13,17 +13,7 @@ categories:
 ---
 Just thinking out load (because its good to get feedback)
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    Dont suppose anyone has a clever way of scheduling sql jobs? Looking at you <a href="https://twitter.com/jamiet" target="_blank" rel="nofollow">@jamiet</a>
-  </p>
-  
-  <p>
-    &mdash; Matt Smith (@matt40k) <a href="https://twitter.com/matt40k/status/697050198120464384" target="_blank" rel="nofollow">February 9, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< gist matt40k 697050198120464384 >}}
 
 Just to expand on my tweet. I&#8217;ve lot of SSIS packages for load and building my BI warehouse (SSAS cubes), now currently I have a SQL job that has multiple steps
 

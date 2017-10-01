@@ -12,17 +12,7 @@ tags:
 ---
 So the <a href="https://twitter.com/NHSHackDay" target="_blank" rel="nofollow">NHS Hack Day</a> retweet this
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    We're a UK non-profit dedicated to open source in Healthcare. Can anyone help us with some VPS instances? <a href="https://twitter.com/rackspaceUK" target="_blank" rel="nofollow">@rackspaceUK</a> <a href="https://twitter.com/digitalocean" target="_blank" rel="nofollow">@digitalocean</a> <a href="https://twitter.com/linode" target="_blank" rel="nofollow">@linode</a>
-  </p>
-  
-  <p>
-    &mdash; NHSbuntu (@nhsbuntu) <a href="https://twitter.com/nhsbuntu/status/858778086678155264" target="_blank" rel="nofollow">April 30, 2017</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 858778086678155264 >}}
 
 Which made me think why is Ubuntu creating a NHS specific distro (OS) and why are they begging for some VPS instances?
 
@@ -38,17 +28,7 @@ Don&#8217;t get me wrong, a Ubuntu desktop would be a great setup, but why not G
 
 I just don&#8217;t get it. Why not create some packages for Ubuntu which has a large support based, is certified by the UK government as meeting the security requirements. Which leads me to
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    I wouldn't use an apt based OS with no security staff ! Also research me before starting a discussion
-  </p>
-  
-  <p>
-    &mdash; Dick Morrell (@TheSecurityBod) <a href="https://twitter.com/TheSecurityBod/status/858808696050208768" target="_blank" rel="nofollow">April 30, 2017</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 858808696050208768 >}}
 
 (In a side quest this <a href="http://dansguardian.org/reply.php" target="_blank" rel="nofollow" class="broken_link">lead me to</a>).
 

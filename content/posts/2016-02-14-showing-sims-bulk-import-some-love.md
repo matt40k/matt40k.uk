@@ -11,17 +11,7 @@ categories:
   - SIMS Bulk Import
 
 ---
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    Missus decided to dye her hair, so spent the time moving from <a href="https://twitter.com/teamcity" target="_blank" rel="nofollow">@teamcity</a> on <a href="https://twitter.com/Azure" target="_blank" rel="nofollow">@Azure</a> vm to <a href="https://twitter.com/appveyor" target="_blank" rel="nofollow">@appveyor</a> for <a href="https://twitter.com/simsbulkimport" target="_blank" rel="nofollow">@simsbulkimport</a>
-  </p>
-  
-  <p>
-    &mdash; Matt Smith (@matt40k) <a href="https://twitter.com/matt40k/status/698912438150938628" target="_blank" rel="nofollow">February 14, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< gist matt40k 698912438150938628 >}}
 
 So today I managed to move <a href="https://simsbulkimport.uk" target="_blank" rel="nofollow">SIMS Bulk Import</a> over to <a href="http://www.appveyor.com/" target="_blank" rel="nofollow">Appveyor</a>. So what does this mean? Well it means I don&#8217;t have to worry about going over my Azure credit limit each month for starters! <a href="http://www.appveyor.com/" target="_blank" rel="nofollow">Appveyor</a> has excellent support for <a href="https://GitHub.com" target="_blank" rel="nofollow">GitHub</a>, so each commit is automatically build, tested, and (when I enable it) a new release created.
 

@@ -34,16 +34,6 @@ Clear as mud. So if its been in place for 10 years and they bring in £400,000 a
 
 * I like the idea Real Time Passenger information, just not the solution SCC purchased. It runs on an out-of-date operating system that crashes. If it was me, I&#8217;d got the Uni to build something using a Raspberry Pi and got the local schools involved (would have looked pretty cool on the children&#8217;s CV)
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    Still broke <a href="https://twitter.com/suffolkcc" target="_blank" rel="nofollow">@suffolkcc</a> &#8211; Majors Corner Ipswich bus stop <a href="https://t.co/EXTI73O8bt" target="_blank" rel="nofollow">pic.twitter.com/EXTI73O8bt</a>
-  </p>
-  
-  <p>
-    &mdash; Matt Smith (@matt40k) <a href="https://twitter.com/matt40k/status/795913583204962305" target="_blank" rel="nofollow">November 8, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 795913583204962305 >}}
 
 &nbsp;

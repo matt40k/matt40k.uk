@@ -26,6 +26,6 @@ Not only will this be my 4th year contributing, I have also surpased the
 
 <a href="http://boincstats.com/en/stats/14/user/detail/404524" target="_blank" rel="nofollow">credits mark</a>. I think in part this is because of my new i5 CPU I got for my birthday this year.
 
-<a href="https://twitter.com/dabsdotcom/status/444092168698089472" target="_blank" rel="nofollow"><img class="alignnone size-full wp-image-244 aligncenter" src="//matt40k.uk/img/2014/12/Bimw0KOCIAA0mmX.png" alt="Bimw0KOCIAA0mmX" width="599" height="465" /></a>
+{{< tweet 444092168698089472 >}}
 
 &nbsp;

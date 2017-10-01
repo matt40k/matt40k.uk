@@ -21,16 +21,6 @@ Answer? Using the Analysis Management Objects (AMO). This will return the same l
 
 Thanks again to Chris Webb for pointing me in the right direction
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    <a href="https://twitter.com/matt40k" target="_blank" rel="nofollow">@matt40k</a> SSMS might well be using AMO or something similar from the admin interface
-  </p>
-  
-  <p>
-    &mdash; Christopher Webb (@Technitrain) <a href="https://twitter.com/Technitrain/status/732886507019767808" target="_blank" rel="nofollow">May 18, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 732886507019767808 >}}
 
 &nbsp;

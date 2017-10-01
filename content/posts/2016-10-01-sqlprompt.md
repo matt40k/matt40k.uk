@@ -17,17 +17,7 @@ tags:
 ---
 So <a href="https://www.red-gate.com/" target="_blank" rel="nofollow">one</a> of the <a href="https://www.red-gate.com/" target="_blank" rel="nofollow">really nice sponsors</a> at <a href="http://www.sqlsaturday.com/" target="_blank" rel="nofollow">SQL Saturday</a> had a vending machine that was rigged up to release a treat when you sent a tweet. Like so
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    I'm at <a href="https://twitter.com/hashtag/sqlsatcambridge?src=hash" target="_blank" rel="nofollow">#sqlsatcambridge</a> home of <a href="https://twitter.com/redgate" target="_blank" rel="nofollow">@redgate</a> <a href="https://twitter.com/hashtag/redgatetreat?src=hash" target="_blank" rel="nofollow">#redgatetreat</a> <a href="https://twitter.com/hashtag/red668?src=hash" target="_blank" rel="nofollow">#red668</a>
-  </p>
-  
-  <p>
-    &mdash; Matt Smith (@matt40k) <a href="https://twitter.com/matt40k/status/774598227639300096" target="_blank" rel="nofollow">September 10, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 774598227639300096 >}}
 
 and give you&#8230;
 
@@ -45,29 +35,9 @@ The fact it re-opens the tables you had open the last time you were in SQL Manag
 
 It even stops DBAs going to jail :p
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    I would literally kill for : GROUP BY EVERYTHING , ie group by everything im not aggregating.
-  </p>
-  
-  <p>
-    &mdash; Dave Ballantyne (@davebally) <a href="https://twitter.com/davebally/status/780385934487543808" target="_blank" rel="nofollow">September 26, 2016</a>
-  </p>
-</blockquote>
+{{< tweet 780385934487543808 >}}
 
-
-
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    <a href="https://twitter.com/davebally" target="_blank" rel="nofollow">@davebally</a> looks like it does &#8211; might be cheaper then 20 yrs in jail for murder 😀 <a href="https://twitter.com/hashtag/SQLPrompt?src=hash" target="_blank" rel="nofollow">#SQLPrompt</a> <a href="https://t.co/kphVNuYvms" target="_blank" rel="nofollow">pic.twitter.com/kphVNuYvms</a>
-  </p>
-  
-  <p>
-    &mdash; Matt Smith (@matt40k) <a href="https://twitter.com/matt40k/status/780389729573404672" target="_blank" rel="nofollow">September 26, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 780389729573404672 >}}
 
 &nbsp;
 

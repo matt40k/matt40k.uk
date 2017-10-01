@@ -14,17 +14,7 @@ tags:
 ---
 Distribution list are amazing things, they allow us to send mail to our team without having to remember who exactly is in our team, this is especial true in this modern age where we are part of many different teams, sometimes without even realising. These lists can contain hundreds or even thousands of members and the latest NHS IT bug has left IT departments maybe wanting to double-check their distribution lists &#8211; hopefully before the security team comes a knocking.
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    NHS 850k reply-all email fail: State health service blames Accenture for config cockup < by me <a href="https://t.co/TZ1AOqsdKC" target="_blank" rel="nofollow">https://t.co/TZ1AOqsdKC</a>
-  </p>
-  
-  <p>
-    &mdash; Gareth Corfield (@GazTheJourno) <a href="https://twitter.com/GazTheJourno/status/798494144062689280" target="_blank" rel="nofollow">November 15, 2016</a>
-  </p>
-</blockquote>
-
-
+{{< tweet 798494144062689280 >}}
 
 Luckily, this is really easy in Excel 2016. Built into Excel 2016 is PowerQuery and one of the out-of-box connectors is Active Directory. With a bit of PowerQuery magic, you can easily pull this data out.
 
@@ -42,8 +32,7 @@ Note: If your unluckily enough to be running an old version of Excel, it possibl
 
 Below is the M code to do this:
 
-<div class="gist-oembed" data-gist="matt40k/ad9aa51201e73f112e790655fb90049a.json">
-</div>
+{{< gist matt40k ad9aa51201e73f112e790655fb90049a >}}
 
 <a href="//matt40k.uk/2016/06/getting-a-list-of-ad-groups-and-their-members-using-powerquery/" target="_blank" rel="nofollow">For more help on how to enter the M code into Excel see my previous post.</a>
 

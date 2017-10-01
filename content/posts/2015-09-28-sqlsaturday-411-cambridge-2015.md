@@ -37,15 +37,7 @@ One last comment about the session, Penny completed the entire thing, including 
 
 Other session going on was <a href="http://web.archive.org/web/20160210045257/http://sqlcambs.org.uk/precon3/" target="_blank" rel="nofollow">A Day with Columnstore Indexes</a> with <a href="http://www.nikoport.com/" target="_blank" rel="nofollow">Niko Neugebauer</a>. To be honest, I wimped out of going to this one &#8211; I tend to leave the intimate details of indexes to our Senior DBA and just pick up the summary sheet at end and apply the base config and only update it when he says so. Lazy I know, but I can&#8217;t learn everything at once!
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    Becoming a <a href="https://twitter.com/hashtag/columnstore?src=hash" target="_blank" rel="nofollow">#columnstore</a> professional in <a href="https://twitter.com/NikoNeugebauer" target="_blank" rel="nofollow">@NikoNeugebauer</a> precon at <a href="https://twitter.com/sqlsatcambs" target="_blank" rel="nofollow">@sqlsatcambs</a> <a href="http://t.co/HWlPXf8HRN" target="_blank" rel="nofollow">pic.twitter.com/HWlPXf8HRN</a>
-  </p>
-  
-  <p>
-    &mdash; Zuzana Skrinarova (@zuzskri) <a href="https://twitter.com/zuzskri/status/641921587889983488" target="_blank" rel="nofollow">September 10, 2015</a>
-  </p>
-</blockquote>
+{{< gist matt40k 641921587889983488 >}}
 
 
 
@@ -53,29 +45,11 @@ Other session going on was <a href="http://web.archive.org/web/20160210045257/h
 
 The second day was with <a href="https://rasmusreinholdt.wordpress.com/" target="_blank" rel="nofollow">Rasmus Reinholdt Nielsen</a> &#8211; <a href="http://web.archive.org/web/20160210074148/http://sqlcambs.org.uk/precon4/" target="_blank" rel="nofollow">Building tomorrows ETL architecture with BIML and MDS today</a> and was the main reason for me attending, I spend most of my time in SSIS. Despite packing two laptops, I still found myself popping out to the shops to pick up a USB mouse as I forgot to pack one. I&#8217;ve previously heard about <a href="http://www.bimlscript.com/" target="_blank" rel="nofollow">BIML</a> and despite being recommended from a lot of folks I just hadn&#8217;t had a proper look, the main reason was the resentment towards Microsoft for not providing such a intermediate language &#8211; not that <a href="http://www.varigence.com" target="_blank" rel="nofollow">Scott Currie</a> hasn&#8217;t done amazing job, its just it should be merged into core product. Rasmus started with a introduction to C# which covered the basics, which he quickly skipped through as we all ready had a working knowledge of C# and got onto <a href="http://www.bimlscript.com/" target="_blank" rel="nofollow">BIML</a>. Before too long I had created my <a href="https://gist.github.com/matt40k/bb849ecb85ba7af13fe3" target="_blank" rel="nofollow">first basic BIML script</a>. He then went onto some of the more complex features of SSIS and then how to achieve the same in a <a href="http://www.bimlscript.com/" target="_blank" rel="nofollow">BIML</a> script. We then moved onto how we use some <a href="http://www.bimlscript.com/" target="_blank" rel="nofollow">BIML</a> features and those C# skills to auto generate a SSIS package, then using Master Data Services (MDS) as your meta library to, In short, automated staging.
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    And the <a href="https://twitter.com/hashtag/BIML?src=hash" target="_blank" rel="nofollow">#BIML</a> precon with <a href="https://twitter.com/RasmusReinholdt" target="_blank" rel="nofollow">@RasmusReinholdt</a> that I'm doing today at <a href="https://twitter.com/hashtag/sqlsatcambridge?src=hash" target="_blank" rel="nofollow">#sqlsatcambridge</a> <a href="http://t.co/GdBSeCUS4i" target="_blank" rel="nofollow">pic.twitter.com/GdBSeCUS4i</a>
-  </p>
-  
-  <p>
-    &mdash; Zuzana Skrinarova (@zuzskri) <a href="https://twitter.com/zuzskri/status/642255631324479488" target="_blank" rel="nofollow">September 11, 2015</a>
-  </p>
-</blockquote>
-
-
+{{< gist matt40k 642255631324479488 >}}
 
 Mean while in the other session, they were not only failing over servers&#8230;
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    Just experienced a real life seamless failover during <a href="https://twitter.com/regbac" target="_blank" rel="nofollow">@regbac</a> <a href="https://twitter.com/retracement" target="_blank" rel="nofollow">@retracement</a> session on the topic at <a href="https://twitter.com/hashtag/sqlsatcambridge?src=hash" target="_blank" rel="nofollow">#sqlsatcambridge</a> <a href="http://t.co/5fqI5t8DPe" target="_blank" rel="nofollow">pic.twitter.com/5fqI5t8DPe</a>
-  </p>
-  
-  <p>
-    &mdash; Kenneth M. Nielsen (@DoktorKermit) <a href="https://twitter.com/DoktorKermit/status/642357856965128193" target="_blank" rel="nofollow">September 11, 2015</a>
-  </p>
-</blockquote>
+{{< gist matt40k 642357856965128193 >}}
 
 
 
@@ -83,16 +57,7 @@ Mean while in the other session, they were not only failing over servers&#8230;
 
 The actual <a href="http://www.sqlsaturday.com/411/eventhome.aspx" target="_blank" rel="nofollow">SQLSaturday event</a> was hosted at the very nice <a href="http://www.mollercentre.co.uk/" target="_blank" rel="nofollow">The Møller Centre</a>, unfortunately this isn&#8217;t as close to the train station as the <a href="http://www.cambridgecityhotel.co.uk/" target="_blank" rel="nofollow">Cambridge City Hotel</a> the precons were hosted at &#8211; still it does have free parking.
 
-<blockquote class="twitter-tweet" data-width="550">
-  <p lang="en" dir="ltr">
-    I can think of worse ways to spend a Saturday 🙂 <a href="https://twitter.com/hashtag/sqlsatcambridge?src=hash" target="_blank" rel="nofollow">#sqlsatcambridge</a> <a href="https://twitter.com/hashtag/spsatcambridge?src=hash" target="_blank" rel="nofollow">#spsatcambridge</a> <a href="http://t.co/ZcEPHUJcZb" target="_blank" rel="nofollow">pic.twitter.com/ZcEPHUJcZb</a>
-  </p>
-  
-  <p>
-    &mdash; Obilogic (@obilogic) <a href="https://twitter.com/obilogic/status/642664423778291712" target="_blank" rel="nofollow">September 12, 2015</a>
-  </p>
-</blockquote>
-
+{{< gist matt40k 642664423778291712 >}}
 
 
 The day was amazing, the people <del>were</del> are friendly &#8211; I managed to go up to a few and ask a few questions which they kindly answered. They even had people handing out free chocolates 🙂
@@ -106,13 +71,5 @@ Overall I think it was a very worthwhile event. I learnt a lot, my work got some
 You can see <a href="https://www.flickr.com/photos/127113040@N04/sets/72157658700726789" target="_blank" rel="nofollow">Rodney Kidd photos on Flickr</a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/127113040@n04/albums/72157658700726789" title="SQL Sat Cambrdge 2015 by rodjkidd, on Flickr" target="_blank" rel="nofollow"><img src="https://farm1.staticflickr.com/588/21105531374_95cd3680ff_c.jpg" width="800" height="666" alt="DSC_0100_DxO" /></a>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
