@@ -5,8 +5,13 @@ theme = "hyde"
 enableRobotsTXT = true	# Build robots.txt file
 googleAnalytics = "UA-47831226-3"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   description = "Developer based in Ipswich, Suffolk, UK"
   copyright = ""
   themeColor = "theme-base-09"
   layoutReverse = true
+  GitHubUser: "matt40k"
