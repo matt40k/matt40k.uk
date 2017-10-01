@@ -1,6 +1,6 @@
 ---
 title: 'Keyboard mapping [SQL 2014]'
-author: matt
+author: matt40k
 type: post
 date: 2014-12-30T00:20:11+00:00
 url: /2014/12/keyboard-mapping-sql-2014/

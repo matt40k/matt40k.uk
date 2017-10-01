@@ -1,6 +1,6 @@
 ---
 title: Microsoft shows Data Pros some love
-author: matt
+author: matt40k
 type: post
 date: 2016-06-09T20:23:40+00:00
 url: /2016/06/microsoft-shows-data-pros-some-love/

@@ -1,6 +1,6 @@
 ---
 title: MSSQL server failed on Ubuntu on Windows 10
-author: matt
+author: matt40k
 type: post
 date: 2017-03-05T11:40:58+00:00
 url: /2017/03/mssql-server-failed-on-ubuntu-on-windows-10/

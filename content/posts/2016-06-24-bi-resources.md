@@ -1,6 +1,6 @@
 ---
 title: BI resources
-author: matt
+author: matt40k
 type: post
 date: 2016-06-24T07:01:15+00:00
 url: /2016/06/bi-resources/

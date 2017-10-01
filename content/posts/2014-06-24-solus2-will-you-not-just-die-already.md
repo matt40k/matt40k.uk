@@ -1,6 +1,6 @@
 ---
 title: SOLUS2, will you not just die already!
-author: matt
+author: matt40k
 type: post
 date: 2014-06-24T20:06:34+00:00
 url: /2014/06/solus2-will-you-not-just-die-already/

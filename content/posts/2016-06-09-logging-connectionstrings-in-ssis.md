@@ -1,6 +1,6 @@
 ---
 title: Logging ConnectionStrings in SSIS
-author: matt
+author: matt40k
 type: post
 date: 2016-06-09T20:18:45+00:00
 url: /2016/06/logging-connectionstrings-in-ssis/

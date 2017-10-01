@@ -1,6 +1,6 @@
 ---
 title: Clear Visual Studio recent projects
-author: matt
+author: matt40k
 type: post
 date: 2014-07-14T11:55:43+00:00
 url: /2014/07/clear-visual-studio-recent-projects/

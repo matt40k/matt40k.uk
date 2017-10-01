@@ -1,6 +1,6 @@
 ---
 title: Authenticating IoT
-author: matt
+author: matt40k
 type: post
 date: 2017-01-08T21:46:21+00:00
 url: /2017/01/authenticating-iot/

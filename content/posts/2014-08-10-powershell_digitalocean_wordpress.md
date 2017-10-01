@@ -1,6 +1,6 @@
 ---
 title: PowerShell, DigitalOcean and WordPress
-author: matt
+author: matt40k
 type: post
 date: 2014-08-10T01:21:22+00:00
 url: /2014/08/powershell_digitalocean_wordpress/

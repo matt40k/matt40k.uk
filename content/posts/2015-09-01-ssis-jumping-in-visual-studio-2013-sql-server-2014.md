@@ -1,6 +1,6 @@
 ---
 title: SSIS jumping in Visual Studio 2013 / SQL Server 2014
-author: matt
+author: matt40k
 type: post
 date: 2015-09-01T11:00:08+00:00
 url: /2015/09/ssis-jumping-in-visual-studio-2013-sql-server-2014/

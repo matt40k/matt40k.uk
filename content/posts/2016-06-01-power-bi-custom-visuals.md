@@ -1,6 +1,6 @@
 ---
 title: Power BI – custom visuals
-author: matt
+author: matt40k
 type: post
 date: 2016-06-01T07:57:38+00:00
 url: /2016/06/power-bi-custom-visuals/

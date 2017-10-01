@@ -1,6 +1,6 @@
 ---
 title: Clever SQL Jobs?
-author: matt
+author: matt40k
 type: post
 date: 2016-02-09T14:24:44+00:00
 url: /2016/02/clever-sql-jobs/

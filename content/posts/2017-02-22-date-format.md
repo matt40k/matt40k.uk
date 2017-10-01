@@ -1,6 +1,6 @@
 ---
 title: Date Format
-author: matt
+author: matt40k
 type: post
 date: 2017-02-22T23:00:06+00:00
 url: /2017/02/date-format/

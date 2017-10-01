@@ -1,6 +1,6 @@
 ---
 title: Getting a list of AD Groups and their members using PowerQuery
-author: matt
+author: matt40k
 type: post
 date: 2016-06-14T20:54:36+00:00
 url: /2016/06/getting-a-list-of-ad-groups-and-their-members-using-powerquery/

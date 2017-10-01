@@ -1,6 +1,6 @@
 ---
 title: Auditing – SSAS
-author: matt
+author: matt40k
 type: post
 date: 2016-03-26T23:30:16+00:00
 url: /2016/03/auditing-ssas/

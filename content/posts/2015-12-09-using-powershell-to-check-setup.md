@@ -1,6 +1,6 @@
 ---
 title: Using PowerShell to check setup
-author: matt
+author: matt40k
 type: post
 date: 2015-12-09T20:16:49+00:00
 url: /2015/12/using-powershell-to-check-setup/

@@ -1,6 +1,6 @@
 ---
 title: Deploying SQL 2014, looking at SQL 2016 \ PowerBI
-author: matt
+author: matt40k
 type: post
 date: 2015-11-06T13:37:02+00:00
 url: /2015/11/deploying-sql-2014-looking-at-sql-2016-powerbi/

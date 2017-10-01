@@ -1,6 +1,6 @@
 ---
 title: Nice idea, but pretty holely
-author: matt
+author: matt40k
 type: post
 date: 2017-09-21T22:04:53+00:00
 url: /2017/09/nice-idea-but-pretty-holely/

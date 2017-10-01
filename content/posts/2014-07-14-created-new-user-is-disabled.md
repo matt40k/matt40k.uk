@@ -1,6 +1,6 @@
 ---
 title: Created new user is disabled
-author: matt
+author: matt40k
 type: post
 date: 2014-07-14T11:41:18+00:00
 url: /2014/07/created-new-user-is-disabled/

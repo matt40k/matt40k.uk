@@ -1,6 +1,6 @@
 ---
 title: Toshiba laptop update
-author: matt
+author: matt40k
 type: post
 date: 2015-05-31T07:40:58+00:00
 url: /2015/05/toshiba-laptop-update/

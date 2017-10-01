@@ -1,6 +1,6 @@
 ---
 title: Enterprise vs Enterprise Core
-author: matt
+author: matt40k
 type: post
 date: 2016-06-07T20:32:57+00:00
 url: /2016/06/enterprise-vs-enterprise-core/

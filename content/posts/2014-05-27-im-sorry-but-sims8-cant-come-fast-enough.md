@@ -1,6 +1,6 @@
 ---
 title: I’m sorry, but SIMS8 can’t come fast enough
-author: matt
+author: matt40k
 type: post
 date: 2014-05-27T23:39:37+00:00
 url: /2014/05/im-sorry-but-sims8-cant-come-fast-enough/

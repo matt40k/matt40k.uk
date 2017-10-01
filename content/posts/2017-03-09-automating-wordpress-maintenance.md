@@ -1,6 +1,6 @@
 ---
 title: Automating WordPress maintenance
-author: matt
+author: matt40k
 type: post
 date: 2017-03-09T20:44:50+00:00
 url: /2017/03/automating-wordpress-maintenance/

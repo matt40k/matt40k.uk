@@ -1,6 +1,6 @@
 ---
 title: Collation
-author: matt
+author: matt40k
 type: post
 date: 2015-11-24T13:31:59+00:00
 url: /2015/11/collation/

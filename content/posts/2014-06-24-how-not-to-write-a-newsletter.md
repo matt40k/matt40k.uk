@@ -1,6 +1,6 @@
 ---
 title: How not to write a newsletter
-author: matt
+author: matt40k
 type: post
 date: 2014-06-24T20:41:04+00:00
 url: /2014/06/how-not-to-write-a-newsletter/

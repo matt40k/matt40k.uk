@@ -1,6 +1,6 @@
 ---
 title: Feature request – Add Azure Data Catalog support to SSDT
-author: matt
+author: matt40k
 type: post
 date: 2016-07-17T22:11:46+00:00
 url: /2016/07/feature-request-add-azure-data-catalog-support-to-ssdt/

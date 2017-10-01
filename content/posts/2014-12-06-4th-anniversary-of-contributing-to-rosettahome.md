@@ -1,6 +1,6 @@
 ---
 title: 4th Anniversary of contributing to Rosetta@Home
-author: matt
+author: matt40k
 type: post
 date: 2014-12-06T21:56:28+00:00
 url: /2014/12/4th-anniversary-of-contributing-to-rosettahome/

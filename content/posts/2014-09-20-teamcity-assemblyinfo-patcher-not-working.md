@@ -1,6 +1,6 @@
 ---
 title: TeamCity AssemblyInfo Patcher not working
-author: matt
+author: matt40k
 type: post
 date: 2014-09-20T01:16:33+00:00
 url: /2014/09/teamcity-assemblyinfo-patcher-not-working/

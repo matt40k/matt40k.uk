@@ -1,6 +1,6 @@
 ---
 title: Pretty time
-author: matt
+author: matt40k
 type: post
 date: 2016-11-30T22:17:23+00:00
 url: /2016/11/pretty-time/

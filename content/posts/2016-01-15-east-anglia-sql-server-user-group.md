@@ -1,6 +1,6 @@
 ---
 title: East Anglia SQL Server User Group
-author: matt
+author: matt40k
 type: post
 date: 2016-01-15T23:15:30+00:00
 url: /2016/01/east-anglia-sql-server-user-group/

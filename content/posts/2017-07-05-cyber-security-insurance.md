@@ -1,6 +1,6 @@
 ---
 title: Cyber Security Insurance
-author: matt
+author: matt40k
 type: post
 date: 2017-07-05T21:17:22+00:00
 url: /2017/07/cyber-security-insurance/

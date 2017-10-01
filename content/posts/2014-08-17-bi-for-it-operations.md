@@ -1,6 +1,6 @@
 ---
 title: BI for IT operations
-author: matt
+author: matt40k
 type: post
 date: 2014-08-17T21:20:08+00:00
 url: /2014/08/bi-for-it-operations/

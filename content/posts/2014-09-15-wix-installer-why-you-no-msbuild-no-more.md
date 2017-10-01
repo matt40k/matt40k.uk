@@ -1,6 +1,6 @@
 ---
 title: WIX installer why you no MSBUILD no more?
-author: matt
+author: matt40k
 type: post
 date: 2014-09-15T21:13:36+00:00
 url: /2014/09/wix-installer-why-you-no-msbuild-no-more/

@@ -1,6 +1,6 @@
 ---
 title: Build problem and duplicate releases
-author: matt
+author: matt40k
 type: post
 date: 2016-08-15T07:14:03+00:00
 url: /2016/08/build-problem-and-duplicate-releases/

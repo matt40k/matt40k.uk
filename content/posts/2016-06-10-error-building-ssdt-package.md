@@ -1,6 +1,6 @@
 ---
 title: Error building SSDT package
-author: matt
+author: matt40k
 type: post
 date: 2016-06-10T20:05:15+00:00
 url: /2016/06/error-building-ssdt-package/

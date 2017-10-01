@@ -1,6 +1,6 @@
 ---
 title: Why does Bing sucks
-author: matt
+author: matt40k
 type: post
 date: 2016-08-29T20:37:24+00:00
 url: /2016/08/why-does-bing-sucks/

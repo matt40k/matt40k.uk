@@ -1,6 +1,6 @@
 ---
 title: SQL Auditing sucks
-author: matt
+author: matt40k
 type: post
 date: 2016-07-23T00:25:55+00:00
 url: /2016/07/sql-auditing-sucks/

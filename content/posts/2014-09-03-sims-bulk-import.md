@@ -1,6 +1,6 @@
 ---
 title: SIMS Bulk Import
-author: matt
+author: matt40k
 type: post
 date: 2014-09-03T21:58:27+00:00
 url: /2014/09/sims-bulk-import/

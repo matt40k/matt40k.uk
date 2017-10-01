@@ -1,6 +1,6 @@
 ---
 title: Technical debt
-author: matt
+author: matt40k
 type: post
 date: 2015-05-26T20:39:05+00:00
 url: /2015/05/technical-debt/

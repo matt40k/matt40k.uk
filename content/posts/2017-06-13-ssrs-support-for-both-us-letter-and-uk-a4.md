@@ -1,6 +1,6 @@
 ---
 title: SSRS support for both US Letter and UK A4
-author: matt
+author: matt40k
 type: post
 date: 2017-06-13T21:10:11+00:00
 url: /2017/06/ssrs-support-for-both-us-letter-and-uk-a4/

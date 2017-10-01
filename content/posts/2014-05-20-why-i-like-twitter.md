@@ -1,6 +1,6 @@
 ---
 title: Why I like Twitter
-author: matt
+author: matt40k
 type: post
 date: 2014-05-20T22:35:08+00:00
 url: /2014/05/why-i-like-twitter/

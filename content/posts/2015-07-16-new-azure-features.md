@@ -1,6 +1,6 @@
 ---
 title: New Azure features
-author: matt
+author: matt40k
 type: post
 date: 2015-07-16T20:43:05+00:00
 url: /2015/07/new-azure-features/

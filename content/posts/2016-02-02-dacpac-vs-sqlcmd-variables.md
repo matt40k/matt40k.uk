@@ -1,6 +1,6 @@
 ---
 title: DacPac vs SqlCmd variables
-author: matt
+author: matt40k
 type: post
 date: 2016-02-02T23:58:33+00:00
 url: /2016/02/dacpac-vs-sqlcmd-variables/

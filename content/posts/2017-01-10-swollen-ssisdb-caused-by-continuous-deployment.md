@@ -1,6 +1,6 @@
 ---
 title: Swollen SSISDB caused by Continuous Deployment
-author: matt
+author: matt40k
 type: post
 date: 2017-01-10T20:00:15+00:00
 url: /2017/01/swollen-ssisdb-caused-by-continuous-deployment/

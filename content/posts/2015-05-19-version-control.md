@@ -1,6 +1,6 @@
 ---
 title: Version Control
-author: matt
+author: matt40k
 type: post
 date: 2015-05-19T22:03:26+00:00
 url: /2015/05/version-control/

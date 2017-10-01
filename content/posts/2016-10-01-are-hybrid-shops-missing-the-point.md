@@ -1,6 +1,6 @@
 ---
 title: Are hybrid shops missing the point?
-author: matt
+author: matt40k
 type: post
 date: 2016-10-01T21:37:55+00:00
 url: /2016/10/are-hybrid-shops-missing-the-point/

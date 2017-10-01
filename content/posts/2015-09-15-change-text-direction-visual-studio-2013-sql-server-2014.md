@@ -1,6 +1,6 @@
 ---
 title: Change text direction – Visual Studio 2013 / SQL Server 2014
-author: matt
+author: matt40k
 type: post
 date: 2015-09-15T19:41:06+00:00
 url: /2015/09/change-text-direction-visual-studio-2013-sql-server-2014/

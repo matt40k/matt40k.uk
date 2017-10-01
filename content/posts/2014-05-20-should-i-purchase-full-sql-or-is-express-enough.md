@@ -1,6 +1,6 @@
 ---
 title: Should I purchase Full SQL or is Express enough?
-author: matt
+author: matt40k
 type: post
 date: 2014-05-20T18:15:35+00:00
 url: /2014/05/should-i-purchase-full-sql-or-is-express-enough/

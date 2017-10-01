@@ -1,6 +1,6 @@
 ---
 title: Is today Day Zero or Day One?
-author: matt
+author: matt40k
 type: post
 date: 2016-06-10T21:00:02+00:00
 url: /2016/06/is-today-day-zero-or-day-one/

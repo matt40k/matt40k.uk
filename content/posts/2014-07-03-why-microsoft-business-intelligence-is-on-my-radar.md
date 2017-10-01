@@ -1,6 +1,6 @@
 ---
 title: Why Microsoft Business Intelligence is on my radar
-author: matt
+author: matt40k
 type: post
 date: 2014-07-03T23:11:40+00:00
 url: /2014/07/why-microsoft-business-intelligence-is-on-my-radar/

@@ -1,6 +1,6 @@
 ---
 title: Living in a IPv6 world
-author: matt
+author: matt40k
 type: post
 date: 2014-08-21T22:12:29+00:00
 url: /2014/08/living-in-a-ipv6-world/

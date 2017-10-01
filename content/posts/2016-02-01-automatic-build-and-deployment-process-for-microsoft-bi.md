@@ -1,6 +1,6 @@
 ---
 title: Automatic build and deployment process for Microsoft BI
-author: matt
+author: matt40k
 type: post
 date: 2016-02-01T22:30:30+00:00
 url: /2016/02/automatic-build-and-deployment-process-for-microsoft-bi/

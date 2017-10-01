@@ -1,6 +1,6 @@
 ---
 title: SQL Compare failed
-author: matt
+author: matt40k
 type: post
 date: 2016-05-12T21:32:03+00:00
 url: /2016/05/sql-compare-failed/

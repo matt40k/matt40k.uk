@@ -1,6 +1,6 @@
 ---
 title: SQLPrompt
-author: matt
+author: matt40k
 type: post
 date: 2016-10-01T21:07:24+00:00
 url: /2016/10/sqlprompt/

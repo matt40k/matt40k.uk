@@ -1,6 +1,6 @@
 ---
 title: New laptop, error running SSIS package
-author: matt
+author: matt40k
 type: post
 date: 2016-06-01T22:06:32+00:00
 url: /2016/06/new-laptop-error-running-ssis-package/

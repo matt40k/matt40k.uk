@@ -1,6 +1,6 @@
 ---
 title: Dangers of distribution lists
-author: matt
+author: matt40k
 type: post
 date: 2016-11-15T23:23:15+00:00
 url: /2016/11/dangers-of-distribution-lists/

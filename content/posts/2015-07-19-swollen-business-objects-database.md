@@ -1,6 +1,6 @@
 ---
 title: Swollen Business Objects database
-author: matt
+author: matt40k
 type: post
 date: 2015-07-19T18:58:50+00:00
 url: /2015/07/swollen-business-objects-database/

@@ -1,6 +1,6 @@
 ---
 title: SSRS copy and paste fail
-author: matt
+author: matt40k
 type: post
 date: 2017-02-09T21:58:49+00:00
 url: /2017/02/ssrs-copy-and-paste-fail/

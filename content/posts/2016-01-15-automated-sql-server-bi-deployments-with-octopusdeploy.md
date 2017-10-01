@@ -1,6 +1,6 @@
 ---
 title: Automated SQL Server BI deployments with OctopusDeploy
-author: matt
+author: matt40k
 type: post
 date: 2016-01-15T21:50:50+00:00
 url: /2016/01/automated-sql-server-bi-deployments-with-octopusdeploy/

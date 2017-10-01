@@ -1,6 +1,6 @@
 ---
 title: Getting collation descriptions
-author: matt
+author: matt40k
 type: post
 date: 2015-12-10T01:45:52+00:00
 url: /2015/12/getting-collation-descriptions/

@@ -1,6 +1,6 @@
 ---
 title: Wooo!!! Fixed in SQL Server 2016!
-author: matt
+author: matt40k
 type: post
 date: 2016-09-12T20:44:31+00:00
 url: /2016/09/wooo-fixed-in-sql-server-2016/

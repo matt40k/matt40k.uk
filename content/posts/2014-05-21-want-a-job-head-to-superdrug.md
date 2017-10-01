@@ -1,6 +1,6 @@
 ---
 title: Want a job? Head to Superdrug
-author: matt
+author: matt40k
 type: post
 date: 2014-05-21T00:12:01+00:00
 url: /2014/05/want-a-job-head-to-superdrug/

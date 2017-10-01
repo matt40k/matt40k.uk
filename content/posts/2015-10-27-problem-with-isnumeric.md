@@ -1,6 +1,6 @@
 ---
 title: Problem with ISNUMERIC
-author: matt
+author: matt40k
 type: post
 date: 2015-10-27T21:29:07+00:00
 url: /2015/10/problem-with-isnumeric/

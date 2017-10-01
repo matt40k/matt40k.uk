@@ -1,6 +1,6 @@
 ---
 title: Small world
-author: matt
+author: matt40k
 type: post
 date: 2015-08-30T19:51:12+00:00
 url: /2015/08/small-world/
