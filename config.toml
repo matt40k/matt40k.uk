@@ -15,3 +15,6 @@ googleAnalytics = "UA-47831226-3"
   themeColor = "theme-base-09"
   layoutReverse = true
   GitHubUser = "matt40k"
+  
+[permalinks]
+  post = "/:year/:month/:title/"
