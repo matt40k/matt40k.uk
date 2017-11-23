@@ -1,1 +1,1 @@
-http://ea-edubase-api-prod.azurewebsites.net/edubase/edubasealldata20171120.csv
+http://ea-edubase-api-prod.azurewebsites.net/edubase/edubasealldata20171123.csv
