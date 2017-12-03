@@ -13,7 +13,7 @@ tags:
 ---
 Another day, another source of bad data. This time, it was a CSV.
 
-{{< gist matt40k d30ab2858a1c2601606f8b2841ad3440 "file-troublesome.csv" >}}
+{{< gist matt40k d30ab2858a1c2601606f8b2841ad3440 "troublesome.csv" >}}
 
 As you can see, the format changes mid file. This makes importing tricky.
 The way I tend to handle importing into SQL is to create staging tables with all the columns defined as varchar, then, once its imported into SQL, then convert it.
