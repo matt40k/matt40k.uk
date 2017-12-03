@@ -31,11 +31,11 @@ So yesterdays email annocument came as no suprise:
 >
 > The browsers imposed some conditions in order for the certificates to be re-accepted. While StartCom believes that these conditions have been met, it appears there are still certain difficulties forthcoming. Considering this situation, the owners of StartCom have decided to terminate the company as a Certification Authority as mentioned in Startcom´s website.
 >
-> StartCom will stop issuing new certificates starting from January 1st, 2018 and will provide only CRL >and OCSP services for two more years.
+> StartCom will stop issuing new certificates starting from January 1st, 2018 and will provide only CRL and OCSP services for two more years.
 >
 > StartCom would like to thank you for your support during this difficult time.
 >
-> StartCom is contacting some other CAs to provide you with the certificates needed. In case you don't want us to provide you an alternative, please, contact us at certmaster@startcomca.com
+> StartCom is contacting some other CAs to provide you with the certificates needed. In case you don't want us to provide you an alternative, please, contact us at <a href="mailto:certmaster@startcomca.com">certmaster@startcomca.com</a>
 >
 >Please let us know if you need any further assistance with the transition process. We deeply apologize for any inconveniences that this may cause.
 >
