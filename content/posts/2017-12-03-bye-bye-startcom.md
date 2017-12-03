@@ -11,11 +11,11 @@ tags:
   - security
   - https
 ---
-In the old days, you would have to throw money at a trusted Certificate Authority (CA) who would sell you a SSL certificate. The alternative was to self-sign or use someone like <a href="cacert">http://www.cacert.org/</a>, the problem is out-of-the-box, no browser\OS supports this so you get a security warning, which isn't something you want when your trying to be secure.
+In the old days, you would have to throw money at a trusted Certificate Authority (CA) who would sell you a SSL certificate. The alternative was to self-sign or use someone like <a href="http://www.cacert.org/">cacert</a>, the problem is out-of-the-box, no browser\OS supports this so you get a security warning, which isn't something you want when your trying to be secure.
 
 StartCom, was a trusted CA who issued free SSL certificates. Microsoft Internet Explorer, Google Chrome, Mozilla Firefox all trusted StartCom which means you could get a free SSL certificate without the warnings. The StartCom reasoning behind giving away free SSL certificates was the freemium model. It doesn't cost a lot to issue a SSL certificate, it costs to verify. For a basic SSL certificate you just need to verify the domain, which is really an automated process, so the cost is extremely low, the more expensive verifications which require checking individual ID or organisations, that's where you make the money.
 
->> # StartCom model was give the certificates away for free and charge for verification.
+> # StartCom model was give the certificates away for free and charge for verification.
 
 Then <a href="https://cloudflare.com">CloudFlare</a> offered free SSL certificates. Then <a href="https://letsencrypt.org">Let's Encrypt</a> appeared.
 
@@ -29,7 +29,7 @@ So yesterdays email annocument came as no suprise:
 > 
 > As you are surely aware, the browser makers distrusted StartCom around a year ago and therefore all the end entity certificates newly issued by StartCom are not trusted by default in browsers.
 >
-> The browsers imposed some conditions in order for the certificates to be re-accepted. While StartCom believes that these conditions have been met, it appears there are still certain difficulties forthcoming. Considering this situation, the owners of StartCom have decided to terminate the company >as a Certification Authority as mentioned in Startcom´s website.
+> The browsers imposed some conditions in order for the certificates to be re-accepted. While StartCom believes that these conditions have been met, it appears there are still certain difficulties forthcoming. Considering this situation, the owners of StartCom have decided to terminate the company as a Certification Authority as mentioned in Startcom´s website.
 >
 > StartCom will stop issuing new certificates starting from January 1st, 2018 and will provide only CRL >and OCSP services for two more years.
 >
