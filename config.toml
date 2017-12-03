@@ -19,6 +19,12 @@ enableGitInfo = true
   GitHubUser = "matt40k"
   twitter = "matt40k"
   linkedin = "https://www.linkedin.com/in/matt40k/"
-  
+
+[params.social]
+facebook = "matt40k"
+github = "matt40k"
+linkedin = "matt40k"
+twitter = "matt40k"
+
 [permalinks]
   post = "/:year/:month/:title/"
