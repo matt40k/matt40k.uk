@@ -1,1 +1,1 @@
-http://ea-edubase-api-prod.azurewebsites.net/edubase/governancealldata20171203.csv
+http://ea-edubase-api-prod.azurewebsites.net/edubase/governancealldata20180108.csv
