@@ -10,7 +10,7 @@ categories:
   - SQL Server
   - SSIS
 tags:
-  - 'C#'
+  - C Sharp
 
 ---
 Another day, another reference to an old <a href="http://sqlblog.com/blogs/jamie_thomson/archive/2011/10/25/verify-a-connection-before-using-it-ssis.aspx" target="_blank" rel="nofollow">Jamie Thomson blog post</a> &#8211; today it was getting the ConnectionString to output to the information. Admittedly I wasn&#8217;t looking for how to fire the connection string into an information event, just the ConnectionString, still another great idea and its useful for debugging.
