@@ -10,9 +10,6 @@ tags:
   - OpenData
 
 ---
-<div class="jetpack-video-wrapper">
-  <div class="embed-vimeo" style="text-align: center;">
-  </div>
-</div>
+{{< vimeo 130773925 >}}
 
 I made the above video using Microsoft Excel using data from a FOI request to <a href="https://www.ipswich.gov.uk/" target="_blank" rel="nofollow">Ipswich Borough Council</a> about the number of Parking fines issued since 2010.
