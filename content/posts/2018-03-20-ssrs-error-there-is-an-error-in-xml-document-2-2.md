@@ -10,4 +10,4 @@ image: /img/image001.png
 
 I got this error when opening an SSRS project in Visual Studio. The solution. [Upgrade SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt).
 
-Turns out my colleague had a higher version of SSRS component - if you go, within Visual Studio, Help > **About **it will give you the version number of Visual Studio then the individual component versions.
+Turns out my colleague had a higher version of SSRS component - if you go, within Visual Studio, Help > About it will give you the version number of Visual Studio then the individual component versions.
