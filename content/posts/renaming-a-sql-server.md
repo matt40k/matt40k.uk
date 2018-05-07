@@ -36,8 +36,6 @@ The other thing that can get missed is the SQL Jobs.
 
 ```
 DECLARE   @oldname varchar(255) = '<old_name>'  ,@newname varchar(255) = '<new_name>';UPDATE   msdb.dbo.sysjobsteps
-
 SET   command = REPLACE(command, @oldname, @newname)
-
 WHERE   COMMAND LIKE '%'+@oldname+'%';
 ```
