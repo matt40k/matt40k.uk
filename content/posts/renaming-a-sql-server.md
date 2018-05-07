@@ -5,20 +5,13 @@ description: 'So you''ve renamed your SQL Server, now stuff has started breaking
 ---
 So you've renamed your SQL Server, but something isn't right.
 
-```
-select @@servername
-```
+{{< gist matt40k f384b0791fbc18549618ed8fbf39c258 "selectServername.sql" >}}
 
 Returns the old name. 
 
 The fix is simple.
 
-```
-sp_dropserver <old_name>;  
-GO  
-sp_addserver <new_name>, local;  
-GO  
-```
+{{< gist matt40k f384b0791fbc18549618ed8fbf39c258 "renameSql.sql" >}}
 
 You just need to restart the SQL instance and @@servername will return the correct name.
 
@@ -26,16 +19,8 @@ More info on the [Microsoft Docs.](https://docs.microsoft.com/en-us/sql/database
 
 On a similar note, [Octopus Deploy](https://octopus.com) has similar annoyance, the server name doesn't update for the server node. Again simple fix for this simple annoyance:
 
-```
-USE OctopusDeploy
-GO
-DECLARE   @oldname varchar(255) = '<old_name>'  ,@newname varchar(255) = '<new_name>';UPDATE   dbo.OctopusServerNodeSET   name = @newnameWHERE   name = @oldname;
-```
+{{< gist matt40k f384b0791fbc18549618ed8fbf39c258 "updateOctopusNode.sql" >}}
 
 The other thing that can get missed is the SQL Jobs.
 
-```
-DECLARE   @oldname varchar(255) = '<old_name>'  ,@newname varchar(255) = '<new_name>';UPDATE   msdb.dbo.sysjobsteps
-SET   command = REPLACE(command, @oldname, @newname)
-WHERE   COMMAND LIKE '%'+@oldname+'%';
-```
+{{< gist matt40k f384b0791fbc18549618ed8fbf39c258 "renameSQLjobserver.sql" >}}
