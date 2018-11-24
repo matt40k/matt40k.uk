@@ -1,6 +1,8 @@
 ---
 title: Companies House
 date: '2018-08-07T20:48:32+00:00'
+author: matt40k
+type: post
 description: 'Loading Companies House data into SQL Server'
 ---
 I've added another API to seahorse - which returns Companies House data dumps. They provide it as a single zip or split up into 5 zips. Within the zip is the data in a CSV file.
