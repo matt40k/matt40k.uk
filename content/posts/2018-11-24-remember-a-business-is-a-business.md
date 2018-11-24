@@ -1,6 +1,8 @@
 ---
 title: Remember a business is a business
 date: '2018-11-24T13:27:00+00:00'
+author: matt40k
+type: post
 description: >-
   Remember a business is a business
 ---
