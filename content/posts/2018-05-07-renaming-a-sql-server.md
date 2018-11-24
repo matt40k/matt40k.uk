@@ -1,5 +1,7 @@
 ---
 title: Renaming a SQL Server
+author: matt40k
+type: post
 date: '2018-05-07T08:20:41+01:00'
 description: 'So you''ve renamed your SQL Server, now stuff has started breaking. Yip.'
 ---
