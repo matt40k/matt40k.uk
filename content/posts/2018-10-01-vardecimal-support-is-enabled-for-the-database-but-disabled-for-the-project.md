@@ -1,6 +1,8 @@
 ---
 title: vardecimal support is enabled for the database but disabled for the project
 date: '2018-10-01T21:06:12+01:00'
+author: matt40k
+type: post
 description: >-
   vardecimal support is enabled for the database but disabled for the project.
   See SQL Server Books Online for more information about how to turn off
