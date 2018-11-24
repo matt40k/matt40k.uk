@@ -1,5 +1,7 @@
 ---
 title: Predictions
+author: matt40k
+type: post
 date: 2018-02-27T21:59:45.517Z
 description: Few predictions for the near and distance future.
 ---
