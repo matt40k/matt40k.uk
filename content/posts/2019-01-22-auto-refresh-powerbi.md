@@ -27,3 +27,9 @@ You then need to put this iframe code into a HTML file. Below is a Gist for basi
 If you copy the code below into notepad inserting the iframe code then saving it as a .html (for example report.html)
 
 {{< gist matt40k 390b113c36f245f8ac92bacb17914b1e >}}
+
+One thing worth changing on the iframe code PowerBI generates is changing the frame size.
+> <iframe width="1140" height="541.25" 
+to
+> <iframe width="100%" height="100%" 
+This is allow PowerBI to use the full web browser real estate. You can ofcourse use F11 to make most web browsers go full screen. Great for displaying PowerBI on the big screen!
