@@ -1,4 +1,4 @@
----
+﻿---
 title: Version control in PowerBI
 date: '2019-02-28T20:28:21+00:00'
 author: matt40k
@@ -20,13 +20,13 @@ PowerBI needs simple, transparent to the end user version control support. With 
 
 PowerBI Desktop should create git repository for each report/dataset/project/workspace. 
 
-The gitignore could be used to exclude the data.
+The .gitignore could be used to exclude the data.
 
 The “save” function should then be changed into “export” 
 
-> pbix - export with data
+> .pbix - export with data
 
-> pbit - export without data
+> .pbit - export without data
 
 This will promote not only git but version control to new developers. Currently there a number of “scripters” who develop solutions that believe their work isn’t worthy of being put into version control, or believe it’s too complex. It’s always worth putting code into version control and it doesn’t have to be hard.
 
