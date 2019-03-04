@@ -33,3 +33,13 @@ This will promote not only git but version control to new developers. Currently 
 This will also allow IT to define where repositories are push too, give them access and in the future apply tests - such as recommending using a M code to generate a column at ETL rather then DAX which is generated every time it is required (ie a massive performance hit)
 
 [Please vote to make this happen](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/36978934-built-in-git-support-in-powerbi-desktop)
+
+## Update
+
+Just to expand on the "why version control \ git" from newbie point of view.
+
+Version control is essential for any developer regardless of level. Version control allows you to track changes. It's highly unlikely you are going to ever develop a perfect solution, even if you are a expert, first time that isn't going to require any changes. By tracking changes it allows you to quickly identify WHEN something has changed, WHAT has changed - as you can "diff" the old vs the new file and if you have added a useful commit message, WHY something has changed.
+
+Git is a distributed version control system. This means there is no spoon. I mean there is no server. Every copy has everything and is equal. Because of this commits are performed locally and you "push" them to remote servers, this means you can develop offline then push when you are back online. Pushing basically means you have a backup and allows others to "clone" your work (permissions willing). Git has become the defacto code version control.
+
+The current problem is Power BI Desktop creates PBIX or PBIT which are .zip binary files. This means you can't "diff" the files, so you can't track changes - you can't see that you've changed the [Price] measure to [Price - Exc VAT]. In addition because you can't "diff", you can't merge changes - which you need to do if you have more then one developer working on a project. So if Dev-A changes [Price] to [Price - Exc VAT] and Dev-B adds [Price - Inc VAT] you can't work independently then merge the two together. This limits Power BI development to a single developer.
