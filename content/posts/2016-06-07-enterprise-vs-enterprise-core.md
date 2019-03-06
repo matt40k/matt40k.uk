@@ -24,7 +24,7 @@ Now, in SQL Server terms there are two types of licensing
   * Server license + CALs
   * Cores (processors)
 
-Expect for Enterprise, you can only get Core licenses.
+Except for Enterprise, you can only get Core licenses.
 
 The next question was, have they made a edition for Windows Server Core, a cut-down version &#8211; but the files sizes are the same, so this was unlikely, Microsoft also hadn&#8217;t made any statement about a cut-down version (which you&#8217;d expect), so again, this was unlikely.
 
