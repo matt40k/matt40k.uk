@@ -1,6 +1,7 @@
 ---
 title: Monzo
 date: '2018-12-10T18:44:00+01:00'
+url: /2018/12/monzo/
 description: Monzo - the UK bank for the digital age
 draft: false
 tags: 

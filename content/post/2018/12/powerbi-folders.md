@@ -3,7 +3,8 @@ title: Power BI folders
 author: matt40k
 type: post
 date: '2018-12-07T22:01:00+01:00'
-description: 'Putting PowerBI fields into folders'
+url: /2018/12/powerbi-folders/
+description: 'Putting Power BI fields into folders'
 draft: false
 tags: 
   - Power BI

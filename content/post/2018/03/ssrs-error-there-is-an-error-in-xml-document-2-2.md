@@ -3,6 +3,8 @@ title: 'SSRS Error - There is an error in XML document (2, 2)'
 author: matt40k
 type: post
 date: '2018-03-20T20:35:22+00:00'
+url: /2018/03/ssrs-error-there-is-an-error-in-xml-document-2-2/
+
 description: >-
   SSRS Error when opening solution\project. There is an error in XML document
   (2, 2)

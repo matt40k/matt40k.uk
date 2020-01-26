@@ -1,6 +1,7 @@
 ---
 title: vardecimal support is enabled for the database but disabled for the project
 date: '2018-10-01T21:06:12+01:00'
+url: /2018/10/vardecimal-support-is-enabled-for-the-database-but-disabled-for-the-project/
 author: matt40k
 type: post
 description: >-

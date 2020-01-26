@@ -3,6 +3,7 @@ title: Predictions
 author: matt40k
 type: post
 date: 2018-02-27T21:59:45.517Z
+url: /2018/02/predictions/
 description: Few predictions for the near and distance future.
 ---
 Here are a few of my predictions based on my experiences over the last few months.

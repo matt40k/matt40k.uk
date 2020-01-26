@@ -1,24 +1,25 @@
 ﻿---
 title: Version control in PowerBI
 date: '2019-02-28T20:28:21+00:00'
+url: /2019/02/powerbi-version-control/
 author: matt40k
 type: post
-description: 'Adding version control support in PowerBI'
+description: 'Adding version control support in Power BI'
 draft: false
 tags: 
   - Power BI
 categories:
   - Power BI
 ---
-PowerBI is a awesome self-service reporting tool that has a low-level of entry for new comers, that allows end-users (ie Non-IT folks) to deliver elegant insight into data via interactive reports.
+Power BI is a awesome self-service reporting tool that has a low-level of entry for new comers, that allows end-users (ie Non-IT folks) to deliver elegant insight into data via interactive reports.
 
 It’s biggest flaw however is it doesn’t have any kinda of code version control support. Like it’s impossible.
 
-Various people/companies have developed hacky solutions however this goes against PowerBI core design of being a simple, self service tool.
+Various people/companies have developed hacky solutions however this goes against Power BI core design of being a simple, self service tool.
 
-PowerBI needs simple, transparent to the end user version control support. With Microsoft moving towards Git and their recent purchase of GitHub, built in Git makes the most sense.
+Power BI needs simple, transparent to the end user version control support. With Microsoft moving towards Git and their recent purchase of GitHub, built in Git makes the most sense.
 
-PowerBI Desktop should create git repository for each report/dataset/project/workspace. 
+Power BI Desktop should create git repository for each report/dataset/project/workspace. 
 
 The .gitignore could be used to exclude the data.
 

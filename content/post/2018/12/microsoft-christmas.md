@@ -1,6 +1,7 @@
 ---
 title: Microsoft christmas
 date: '2018-12-18T22:30:00+01:00'
+url: /2018/12/microsoft-christmas/
 description: It's that time of year that Microsoft wrap up some goodies 
 draft: false
 tags: 

@@ -3,7 +3,7 @@ title: Turbo SQL 2017 backups
 author: matt40k
 type: post
 date: 2017-11-23T20:48:29+00:00
-url: /2017/11/23/turbo-sql-2017-backups/
+url: /2017/11/turbo-sql-2017-backups/
 categories:
   - SQL Server
 ---

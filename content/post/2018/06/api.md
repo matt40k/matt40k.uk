@@ -1,6 +1,7 @@
 ---
 title: API
 date: '2018-06-08T23:12:41+00:00'
+url: /2018/06/api/
 author: matt40k
 type: post
 description: 'WHOIS API'

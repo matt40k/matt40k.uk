@@ -3,7 +3,7 @@ title: Serverless
 author: matt40k
 type: post
 date: 2017-11-23T22:12:29+00:00
-url: /2017/11/23/serverless/
+url: /2017/11/serverless/
 categories:
   - Serverless
   - AWS
