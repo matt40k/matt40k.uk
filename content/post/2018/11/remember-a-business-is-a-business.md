@@ -7,8 +7,6 @@ description: >-
   Remember a business is a business
 ---
 
-{{< tweet 1066073641501278208 >}}
-
 At the end of the day, a business is a business. It's sole job is to make money. There isn't anything wrong with this, I like getting paid each month, it enables me to be to, you know, buy food and keep a roof over my head. Once you accept you need money to live in today's society you can kinda see how a business needs to make money and if you can reduce costs it, brillant. Unfortunately this could be from your wages.
 
 It's pretty hard to argue with the logic that you don't NEED a pay rise if you are surviving on you're current wage, which kinda stumps your growth within a business. If your life is your job, then you are going to be more dedicated then someone who is working to support a family. Neither is a bad thing. The appeal of someone who works late vs someone who has to leave at 5pm to collect the kids is pretty obvious, the problem with the former is they are going to need a support network around them as it is often missing otherwise times of high stress could be fatel. 

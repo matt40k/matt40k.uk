@@ -8,7 +8,7 @@ description: >-
   (2, 2)
 image: /img/image001.png
 ---
-![There is an error in XML document (2, 2)](/img/image001.png)
+![There is an error in XML document (2, 2)](/img/2018/03/ssiserror.png)
 
 I got this error when opening an SSRS project in Visual Studio. The solution. [Upgrade SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt).
 
