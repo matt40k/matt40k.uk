@@ -15,7 +15,7 @@ googleAnalytics = "UA-47831226-3"
   quality = 99
 
 [params]
-  homeMetaContent = "A Hugo theme made with PaperCSS, the less formal CSS framework."
+  homeMetaContent = "Matt Smith - Developer from Ipswich, Suffolk, UK"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
 
