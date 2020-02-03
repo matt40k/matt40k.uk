@@ -5,6 +5,11 @@ title = "Matt40k"
 theme = "papercss-hugo-theme"
 googleAnalytics = "UA-47831226-3"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [taxonomies]
   tag = "tags"
 
