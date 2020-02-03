@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Matt40k"
 theme = "papercss-hugo-theme"
 googleAnalytics = "UA-47831226-3"
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
