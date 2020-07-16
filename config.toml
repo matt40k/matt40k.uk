@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
   homeMetaContent = "Matt Smith - Developer from Ipswich, Suffolk, UK"
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "Jan 2, 2006"
+  dateFormat = "02 Jan 06"
 
 [menu]
   [[menu.nav]]
