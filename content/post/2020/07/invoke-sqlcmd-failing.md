@@ -4,6 +4,9 @@ author: matt40k
 type: post
 date: 2020-07-16T22:11:42+00:00
 url: /2020/07/invoke-sqlcmd-failing/
+type: post
+description: 'Invoke-SqlCmd Failing - can only be called from within the same thread'
+draft: false
 categories:
   - Blog
 tags:
