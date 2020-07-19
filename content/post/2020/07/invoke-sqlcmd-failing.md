@@ -47,6 +47,7 @@ Replacing:
 - Invoke-SqlCmd - with Invoke-DbaQuery
 - Username / Password - with SqlCredential
 - (and the troublesome) OutputAs - with As
+- ServerInstance - with SqlInstance
 
 (I also added -ReadOnly - its just a select statement that exports to CSV after all)
 
