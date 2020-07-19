@@ -51,3 +51,5 @@ Replacing:
 
 (I also added -ReadOnly - its just a select statement that exports to CSV after all)
 
+Net result. No more errors.
+
