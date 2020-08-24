@@ -28,7 +28,9 @@ Don&#8217;t get me wrong, a Ubuntu desktop would be a great setup, but why not G
 
 I just don&#8217;t get it. Why not create some packages for Ubuntu which has a large support based, is certified by the UK government as meeting the security requirements. Which leads me to
 
-{{< tweet 858808696050208768 >}}
+> I wouldn't use an apt based OS with no security staff ! Also research me before starting a discussion
+> 
+> — Dick Morrell (@ThatPodcastChap) April 30, 2017
 
 (In a side quest this <a href="http://dansguardian.org/reply.php" target="_blank" rel="nofollow" class="broken_link">lead me to</a>).
 
