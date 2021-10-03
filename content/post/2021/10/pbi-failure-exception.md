@@ -7,10 +7,10 @@ url: /2021/10/pbi-failure-exception/
 type: post
 description: 'Power BI refresh failure - exception was raised'
 draft: false
+tags: 
+  - Power BI
 categories:
-  - Blog
-tags:
-  - PowerBI
+  - Power BI
 ---
 
 I was recently seeing alot of Power BI data refresh failures on newly created environments, however existing environments would be fine. The errors that were occuring were as followed:
