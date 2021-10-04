@@ -2,9 +2,13 @@ baseURL = "https://matt40k.uk/"
 languageCode = "en-gb"
 defaultContentLanguage = "en"
 title = "Matt40k"
-theme = "papercss-hugo-theme"
+theme = "archie"
 googleAnalytics = "UA-47831226-3"
 enableRobotsTXT = true
+ignoreErrors = [
+	"error-remote-getjson"
+]
+
 
 [sitemap]
   changefreq = "monthly"
