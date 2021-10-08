@@ -18,3 +18,11 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+	X-Content-Type-Options: nosniff
+    X-XSS-Protection = "1; mode=block"
+	Content-Security-Policy: default-src https:
