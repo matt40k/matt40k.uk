@@ -16,7 +16,9 @@ categories:
 I was recently seeing alot of Power BI data refresh failures on newly created environments, however existing environments would be fine. The errors that were occuring were as followed:
 
 ```
-Failed to save modifications to the server. Error returned: 'Attempt to read when no data is present.. The exception was raised by the IDataReader interface. Please review the error message and provider documentation for further information and corrective action.
+Failed to save modifications to the server. Error returned: 'Attempt to read when no data 
+is present.. The exception was raised by the IDataReader interface. Please review the error 
+message and provider documentation for further information and corrective action.
 ```
 
 ```
@@ -28,7 +30,9 @@ There was an error when processing the data in the dataset.
 ```
 
 ```
-Attempt to read when no data is present.. The exception was raised by the IDataReader interface. Please review the error message and provider documentation for further information and corrective action.
+Attempt to read when no data is present.. The exception was raised by the IDataReader 
+interface. Please review the error message and provider documentation for further 
+information and corrective action.
 ```
 
 When I drilled into it, I could see that I could manually refresh ok; if I was to take the M code and copy it into Power BI desktop and connect directly to the same Azure Data Lake gen2, it would load correctly every time. So at this point I new it would have to do with the incremental refresh. It would be something to do with the pollingExpression, this is the M code that returns the max datetime of the refresh data so Power BI knows what data, or more precisely which partitions need to be processed. I went back and reviewed [Patrick's](https://twitter.com/patrickdba) video on [Handling deletes within Incremental Refresh in Power BI](https://www.youtube.com/watch?v=nKVrl0ec6uE) and spotted his comment about nulls.

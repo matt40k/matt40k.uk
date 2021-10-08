@@ -1,0 +1,100 @@
+baseURL: "https://matt40k.uk/"
+title: Matt40k
+paginate: 25
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-47831226-3
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Matt40k
+    keywords: [Blog, "Power BI", PaperMod]
+    author: "Matt Smith"
+    DateFormat: "January 2, 2006"
+    defaultTheme: light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    tocopen: false
+
+    #assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        #favicon: "<link / abs url>"
+        #favicon16x16: "<link / abs url>"
+        #favicon32x32: "<link / abs url>"
+        #apple_touch_icon: "<link / abs url>"
+        #safari_pinned_tab: "<link / abs url>"
+
+    # profile-mode
+    profileMode:
+        enabled: false
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: I'm a Business Intelligence Developer based in UK.
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/matt40k"
+        - name: github
+          url: "https://github.com/matt40k"
+
+#    analytics:
+#        google:
+#            SiteVerificationTag: "XYZabc"
+#        bing:
+#            SiteVerificationTag: "XYZabc"
+#        yandex:
+#            SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/matt40k/matt40k.uk/tree/main/content"
+        Text: "Suggest Changes" 
+        appendFilePath: true
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
