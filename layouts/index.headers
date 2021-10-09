@@ -1,7 +1,2 @@
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options: DENY
-    X-XSS-Protection: 1; mode=block
-    X-Content-Type-Options: nosniff
-    Referrer-Policy: origin-when-cross-origin
+/static/*
+  Cache-Control: "public, max-age=360000"
