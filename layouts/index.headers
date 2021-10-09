@@ -3,6 +3,8 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: origin-when-cross-origin
-  
+  Permissions-Policy = "geolocation=(), microphone=()"
+  Content-Security-Policy = "default-src https://matt40k.uk; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'"
+
 /static/*
   Cache-Control: "public, max-age=360000"
