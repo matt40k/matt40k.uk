@@ -11,8 +11,6 @@ buildExpired: false
 disableHugoGeneratorInject: true
 enableEmoji: true
 
-googleAnalytics: UA-47831226-3
-
 minify:
     disableXML: true
     minifyOutput: true
@@ -20,7 +18,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Matt40k
-    keywords: [Blog, "Power BI", PaperMod]
+    keywords: [Blog, "Power BI"]
     author: "Matt Smith"
     DateFormat: "January 2, 2006"
     defaultTheme: light
