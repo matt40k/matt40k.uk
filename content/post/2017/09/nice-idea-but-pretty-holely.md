@@ -12,7 +12,7 @@ tags:
 ---
 So the <a href="https://twitter.com/NHSHackDay" target="_blank" rel="nofollow">NHS Hack Day</a> retweet this
 
-{{< tweet 858778086678155264 >}}
+{{< tweet user="_nhos_" id="858778086678155264" >}}
 
 Which made me think why is Ubuntu creating a NHS specific distro (OS) and why are they begging for some VPS instances?
 
