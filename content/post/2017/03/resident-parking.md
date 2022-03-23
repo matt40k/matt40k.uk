@@ -34,6 +34,6 @@ Clear as mud. So if its been in place for 10 years and they bring in £400,000 a
 
 * I like the idea Real Time Passenger information, just not the solution SCC purchased. It runs on an out-of-date operating system that crashes. If it was me, I&#8217;d got the Uni to build something using a Raspberry Pi and got the local schools involved (would have looked pretty cool on the children&#8217;s CV)
 
-{{< tweet 795913583204962305 >}}
+{{< tweet user="matt40k" id="795913583204962305" >}}
 
 &nbsp;
