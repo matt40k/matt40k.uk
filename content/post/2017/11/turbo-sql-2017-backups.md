@@ -10,7 +10,7 @@ categories:
 
 Another day, another Twitter awesome moment, <a href="http://www.sqlserverfaq.net/">Parikshit Savjani</a> was explaining how backups are now faster in SQL Server 2017.
 
-{{< tweet 933560128250380288 >}}
+{{< tweet user="talktosavjani" id="933560128250380288" >}}
 
 For more info on how, <a href="https://blogs.msdn.microsoft.com/sql_server_team/how-we-made-backups-faster-with-sql-server-2017/">read his post</a>. TD;LR - The wait time before data is actually copied is reduced because the amount of buffers to scan is massively reduced.
 
