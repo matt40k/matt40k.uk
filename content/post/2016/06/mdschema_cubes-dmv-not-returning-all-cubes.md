@@ -21,6 +21,6 @@ Answer? Using the Analysis Management Objects (AMO). This will return the same l
 
 Thanks again to Chris Webb for pointing me in the right direction
 
-{{< tweet 732886507019767808 >}}
+{{< tweet user="cwebb_bi" id="732886507019767808" >}}
 
 &nbsp;
