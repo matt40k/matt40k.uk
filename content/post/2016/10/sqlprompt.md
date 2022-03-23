@@ -17,7 +17,7 @@ tags:
 ---
 So <a href="https://www.red-gate.com/" target="_blank" rel="nofollow">one</a> of the <a href="https://www.red-gate.com/" target="_blank" rel="nofollow">really nice sponsors</a> at <a href="http://www.sqlsaturday.com/" target="_blank" rel="nofollow">SQL Saturday</a> had a vending machine that was rigged up to release a treat when you sent a tweet. Like so
 
-{{< tweet 774598227639300096 >}}
+{{< tweet user="matt40k" id="774598227639300096" >}}
 
 and give you&#8230;
 
@@ -35,9 +35,9 @@ The fact it re-opens the tables you had open the last time you were in SQL Manag
 
 It even stops DBAs going to jail :p
 
-{{< tweet 780385934487543808 >}}
+{{< tweet user="davebally" id="780385934487543808" >}}
 
-{{< tweet 780389729573404672 >}}
+{{< tweet user="matt40k" id="780389729573404672" >}}
 
 &nbsp;
 
