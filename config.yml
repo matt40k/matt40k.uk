@@ -11,6 +11,8 @@ buildExpired: false
 disableHugoGeneratorInject: true
 enableEmoji: true
 
+ignoreErrors: ["error-remote-getjson"]
+
 minify:
     disableXML: true
     minifyOutput: true
