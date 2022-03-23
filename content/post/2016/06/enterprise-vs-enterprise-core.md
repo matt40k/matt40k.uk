@@ -13,11 +13,11 @@ categories:
 ---
 This month saw the release of SQL Server 2016, which from a BI\Report point of view is huge. Once we had access to it
 
-{{< tweet 737912147703934976 >}}
+{{< tweet user="davekerby" id="737912147703934976" >}}
 
 I spotted something odd.
 
-{{< tweet 739752396046372864 >}}
+{{< tweet user="matt40k" id="739752396046372864" >}}
 
 Now, in SQL Server terms there are two types of licensing
 
