@@ -15,15 +15,15 @@ categories:
   - 40k
 ---
 
-## Boarding Patrol
+__Boarding Patrol__
 __Faction:__ Imperium  __Sub-Faction:__ Adeptus Custodes
 __Points:__ 500pts
 
-## HQ
-### Trajann Valoris
+__HQ__
+__Trajann Valoris__
 
-## Troops
-### 4x Custodian Guard Squad
+__Troops__
+__4x Custodian Guard Squad__
 
-## Elites
-### 2x Allarus Custodians
+__Elites__
+__2x Allarus Custodians__
