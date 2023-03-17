@@ -16,14 +16,14 @@ categories:
 ---
 
 __Boarding Patrol__
-⋅⋅⋅__Faction:__ Imperium __Sub-Faction:__ Adeptus Custodes
-⋅⋅⋅__Points:__ 500pts
+: __Faction:__ Imperium __Sub-Faction:__ Adeptus Custodes
+: __Points:__ 500pts
 
 __HQ__
-⋅⋅⋅__Trajann Valoris__
+: __Trajann Valoris__
 
 __Troops__
-⋅⋅⋅__4x Custodian Guard Squad__
+: __4x Custodian Guard Squad__
 
 __Elites__
-⋅⋅⋅__2x Allarus Custodians__
+: __2x Allarus Custodians__
