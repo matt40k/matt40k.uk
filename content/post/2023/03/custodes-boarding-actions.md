@@ -17,16 +17,16 @@ categories:
 
 Boarding Patrol
 : __Faction:__ Imperium __Sub-Faction:__ Adeptus Custodes
-: __Points:__ 500pts
+
+__Points:__ 500pts
+
+__HQ__
+-  __Trajann Valoris__
 
 
-HQ
-: __Trajann Valoris__
+__Troops__
+- __4x Custodian Guard Squad__
 
 
-Troops
-: __4x Custodian Guard Squad__
-
-
-Elites
-: __2x Allarus Custodians__
+__Elites__
+- __2x Allarus Custodians__
