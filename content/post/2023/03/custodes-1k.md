@@ -3,7 +3,7 @@ title: Custodes 1k
 author: matt40k
 type: post
 date: 2023-03-17T00:00:01+00:00
-url: /2023/03/custodes-boarding-actions/
+url: /2023/03/custodes-1k/
 type: post
 description: 'Adeptus Custodes 1,000 points'
 draft: false
