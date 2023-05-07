@@ -25,8 +25,8 @@ __HQ__
 
 
 __Troops__
-- __3x Tyrnaid Warriors__
-- __3x Tyrnaid Warriors__
+- __3x Tyranid Warriors__
+- __3x Tyranid Warriors__
 
 
 __Elites__
