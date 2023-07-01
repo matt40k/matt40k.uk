@@ -15,6 +15,7 @@ categories:
   - 40k
 ---
 
+Warhammer 40,000 - 9th edition
 Boarding Patrol
 : __Faction:__ Xenos __Sub-Faction:__ Tyranids
 
