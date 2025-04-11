@@ -1,0 +1,30 @@
+<html lang="en">
+  <head>
+    <meta charset="utf8" />
+    <title>Form Demo</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+  </head>
+  <body>
+    <form method="POST" action="/api/submit">
+      <div class="input">
+        <label for="name">Full Name</label>
+        <input id="name" name="name" type="text" />
+      </div>
+
+      <div class="input">
+        <label for="email">Email Address</label>
+        <input id="email" name="email" type="email" />
+      </div>
+
+      <div class="input">
+        <label for="subject">Subject</label>
+        <select id="subject" name="subject">
+          <option hidden disabled selected value>General</option>
+          <option value="Security">Security</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
