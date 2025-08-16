@@ -1,0 +1,1415 @@
+    {
+        "Game": "Boarding Actions",
+        "Points": 500,
+        "Factions": [
+            {
+                "Faction": "Adeptus Astartes",
+                "IsEnabled": false,
+                "Detachments": [
+                    {
+                        "Name": "Boarding Strike",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Pilum Strike Team",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Terminator Assault",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Adeptus Custodes",
+                "IsEnabled": true,
+                "Detachments": [
+                    {
+                        "Name": "Voyagers in Darkness",
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Blade Champion",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            120
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Shield-Captain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            130
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Trajann Valoris",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            140
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Valerian",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            110
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 3,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Custodian Guard",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            170,
+                                            215
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            4,
+                                            5
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Allarus Custodians",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            120,
+                                            180
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            2,
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Custodian Wardens",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            210,
+                                            260
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            4,
+                                            5
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 3,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Prosecutors",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50,
+                                            100
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Vigilators",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65,
+                                            125
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Witchseekers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65,
+                                            125
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Black Ship Guardians",
+                        "IsEnabled": false,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Aleya",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Knight-Centura",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Shield-Captain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            130
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Valerian",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            110
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Prosecutors",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50,
+                                            100
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Vigilators",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65,
+                                            125
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Witchseekers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65,
+                                            125
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Faction": "Adeptus Mechanicus",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Electromartyrs",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Response Clade",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Machine Cult",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Adepta Sororitas",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Pious Protectors",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Penitents and Pilgrims",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Aeldari",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Khaine's Arrow",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Protector Host",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Wraiths of the Void",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Star-dancer Masque",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Agents of the Imperium",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Voidship's Company",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Interdiction Team",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Astra Militarum",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Embarked Regiment",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Tempestus Boarding Regiment",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Death Guard",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Vectors of Decay",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Unclean Uprising",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Arch-Contaminators",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Drukhari",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Space Lane Raiders",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Kabalite Corsairs",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Ship-Killer Cult",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Painbringers",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Genestealer Cults",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Cult Unveiled",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Genespawn Onslaught",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Great Devourer",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Infestation Spawn",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Grey Knights",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Void Purge Force",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Baneslayer Strike",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Heretic Astartes",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Infernal Reavers",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Underdeck Uprising",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Champions of Chaos",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Leagues of Votann",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Void Salvagers",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Hearthfire Strike",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Legiones Daemonica",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Daemonic Incursion",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Infernal Onslaught",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Rotten and Rusted",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Dread Carnival",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Pandaemoniac Inferno",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Necrons",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Tomb Ship Complement",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Deranged Outcasts",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Canoptek Harvesters",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Orks",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Ramship Raiders",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Kaptin Killers",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "T'au Empire",
+                "IsEnabled": false,
+                "Detachment": [
+                    {
+                        "Name": "Starfire Cadre",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    },
+                    {
+                        "Name": "Kroot Raiding Party",
+                        "IsEnabled": false,
+                        "UnitGroups": []
+                    }
+                ]
+            },
+            {
+                "Faction": "Thousand Sons",
+                "IsEnabled": true,
+                "Detachment": [
+                    {
+                        "Name": "Chosen Cabal",
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Ahriman",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Exalted Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Infernal Master",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Terminator Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Rubric Marines",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100,
+                                            190
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Cultists",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tzaangors",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Scarab Occult Terminators",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            180,
+                                            375
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Chaos Spawn",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            2
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Devoted Thralls",
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Exalted Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Infernal Master",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Thousand Sons Cultists",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tzaangors",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Thousand Sons Chaos Spawn",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            2
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Fateseekers",
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Ahriman",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Exalted Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Infernal Master",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Terminator Sorcerer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Scarab Occult Terminators",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            180,
+                                            375
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Thousand Sons Chaos Spawn",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            2
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Faction": "Tyranids",
+                "IsEnabled": true,
+                "Detachment": [
+                    {
+                        "Name": "Tyranid Attack",
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Winged Tyranid Prime",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Tyranid Warriors with Melee Bio-Weapons",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tyranid Warriors with Range Bio-Weapons",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            3
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Hormagaunts",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Neurogaunts",
+                                        "DevNote": "Its 45 points for 11 but the book limits to 11 - so it should be 40/41 points",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Ripper Swarms",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Termagants",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Tyranid Warriors with Melee Bio-Weapons",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tyranid Warriors with Range Bio-Weapons",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            3
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Boarding Swarm",
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Deathleaper",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Lictor",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Neurolictor",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Hormagaunts",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Raveners",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Von Ryan's Leapers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Biotide",
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Winged Tyranid Prime",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 12,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Hormagaunts",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "DevNote": "Its 45 points for 11 but the book limits to 11 - so it should be 40/41 points",
+                                        "Name": "Neurogaunts",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Ripper Swarms",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Termagants",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Faction": "World Eaters",
+                "IsEnabled": true,
+                "Detachment": [
+                    {
+                        "Name": "Boarding Butchers",
+                        "IsEnabled": false,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Kharn the Betrayer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "World Eaters Master of Executions",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Khorne Berzerkers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            90,
+                                            180
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Jakhals",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Eighbound",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            150
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Exalted Eighbound",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            160
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "World Eaters Chaos Spawn",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "Name": "World Eaters Terminator Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            185
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Skullsworn",
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Kharn the Betrayer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "World Eaters Master of Executions",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Eighbound",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            150
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Exalted Eighbound",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            160
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "World Eaters Terminator Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            150
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            185,
+                                            370
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
