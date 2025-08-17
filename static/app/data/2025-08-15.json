@@ -1220,7 +1220,7 @@
                 "Detachments": [
                     {
                         "Name": "Boarding Butchers",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "UnitGroups": [
                             {
                                 "Limit": 2,
