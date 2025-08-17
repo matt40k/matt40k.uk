@@ -296,22 +296,391 @@
             },
             {
                 "Faction": "Adeptus Mechanicus",
-                "IsEnabled": false,
+                "IsEnabled": true,
                 "Detachments": [
                     {
                         "Name": "Electromartyrs",
-                        "IsEnabled": false,
-                        "UnitGroups": []
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Tech-Priest Dominus",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tech-Priest Enginseer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tech-Priest Manipulus",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Technoarcheologist",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Skitarii Marshal",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            35
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Skitarii Rangers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45,
+                                            85
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Skitarii Vanguard",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50,
+                                            95
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Corpuscarii Electro-Priests",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65,
+                                            130
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Fulgurite Electro-Priests",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70,
+                                            140
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Kataphron Breachers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            160
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Kataphron Destroyers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            105
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Sicarian Infiltrators",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70,
+                                            140
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Sicarian Ruststalkers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75,
+                                            150
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Response Clade",
-                        "IsEnabled": false,
-                        "UnitGroups": []
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Skitarii Marshal",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            35
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Skitarii Rangers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45,
+                                            85
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Skitarii Vanguard",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50,
+                                            95
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Sicarian Infiltrators",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70,
+                                            140
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Sicarian Ruststalkers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75,
+                                            150
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Machine Cult",
-                        "IsEnabled": false,
-                        "UnitGroups": []
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Tech-Priest Dominus",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tech-Priest Enginseer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tech-Priest Manipulus",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Technoarcheologist",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Corpuscarii Electro-Priests",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65,
+                                            130
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Fulgurite Electro-Priests",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70,
+                                            140
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Kataphron Breachers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            160
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Kataphron Destroyers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            105
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    }
+                                ]
+                            }
+
+
+                        ]
                     }
                 ]
             },
