@@ -678,15 +678,13 @@
                                     }
                                 ]
                             }
-
-
                         ]
                     }
                 ]
             },
             {
                 "Faction": "Adepta Sororitas",
-                "IsEnabled": false,
+                "IsEnabled": true,
                 "Detachments": [
                     {
                         "Name": "Pious Protectors",
@@ -695,14 +693,64 @@
                     },
                     {
                         "Name": "Penitents and Pilgrims",
-                        "IsEnabled": false,
-                        "UnitGroups": []
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Ministorum Priest",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Arco-flagellants",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70,
+                                            140
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Repentia Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75,
+                                            160
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "Faction": "Aeldari",
-                "IsEnabled": false,
+                "IsEnabled": true,
                 "Detachments": [
                     {
                         "Name": "Khaine's Arrow",
@@ -716,8 +764,58 @@
                     },
                     {
                         "Name": "Wraiths of the Void",
-                        "IsEnabled": false,
-                        "UnitGroups": []
+                        "IsEnabled": true,
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Spiritseer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Wraithblades",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            170,
+                                            340
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Wraithguard",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            170,
+                                            340
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Star-dancer Masque",
