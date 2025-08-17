@@ -297,7 +297,7 @@
             {
                 "Faction": "Adeptus Mechanicus",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Electromartyrs",
                         "IsEnabled": false,
@@ -318,7 +318,7 @@
             {
                 "Faction": "Adepta Sororitas",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Pious Protectors",
                         "IsEnabled": false,
@@ -334,7 +334,7 @@
             {
                 "Faction": "Aeldari",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Khaine's Arrow",
                         "IsEnabled": false,
@@ -360,7 +360,7 @@
             {
                 "Faction": "Agents of the Imperium",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Voidship's Company",
                         "IsEnabled": false,
@@ -376,7 +376,7 @@
             {
                 "Faction": "Astra Militarum",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Embarked Regiment",
                         "IsEnabled": false,
@@ -392,7 +392,7 @@
             {
                 "Faction": "Death Guard",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Vectors of Decay",
                         "IsEnabled": false,
@@ -413,7 +413,7 @@
             {
                 "Faction": "Drukhari",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Space Lane Raiders",
                         "IsEnabled": false,
@@ -439,7 +439,7 @@
             {
                 "Faction": "Genestealer Cults",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Cult Unveiled",
                         "IsEnabled": false,
@@ -455,7 +455,7 @@
             {
                 "Faction": "Great Devourer",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Infestation Spawn",
                         "IsEnabled": false,
@@ -466,7 +466,7 @@
             {
                 "Faction": "Grey Knights",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Void Purge Force",
                         "IsEnabled": false,
@@ -482,7 +482,7 @@
             {
                 "Faction": "Heretic Astartes",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Infernal Reavers",
                         "IsEnabled": false,
@@ -503,7 +503,7 @@
             {
                 "Faction": "Leagues of Votann",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Void Salvagers",
                         "IsEnabled": false,
@@ -519,7 +519,7 @@
             {
                 "Faction": "Legiones Daemonica",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Daemonic Incursion",
                         "IsEnabled": false,
@@ -550,7 +550,7 @@
             {
                 "Faction": "Necrons",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Tomb Ship Complement",
                         "IsEnabled": false,
@@ -571,7 +571,7 @@
             {
                 "Faction": "Orks",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Ramship Raiders",
                         "IsEnabled": false,
@@ -587,7 +587,7 @@
             {
                 "Faction": "T'au Empire",
                 "IsEnabled": false,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Starfire Cadre",
                         "IsEnabled": false,
@@ -603,7 +603,7 @@
             {
                 "Faction": "Thousand Sons",
                 "IsEnabled": true,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Chosen Cabal",
                         "IsEnabled": true,
@@ -923,7 +923,7 @@
             {
                 "Faction": "Tyranids",
                 "IsEnabled": true,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Tyranid Attack",
                         "UnitGroups": [
@@ -1214,7 +1214,7 @@
             {
                 "Faction": "World Eaters",
                 "IsEnabled": true,
-                "Detachment": [
+                "Detachments": [
                     {
                         "Name": "Boarding Butchers",
                         "IsEnabled": false,
