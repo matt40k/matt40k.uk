@@ -10,6 +10,7 @@
                     {
                         "Name": "Boarding Strike",
                         "IsEnabled": false,
+                        "DetachmentRule": "Drive Home the Blade",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -25,6 +26,7 @@
                     {
                         "Name": "Pilum Strike Team",
                         "IsEnabled": false,
+                        "DetachmentRule": "Relentless Salvoes",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -40,6 +42,7 @@
                     {
                         "Name": "Terminator Assault",
                         "IsEnabled": false,
+                        "DetachmentRule": "Sacred Oath",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -62,6 +65,7 @@
                     {
                         "Name": "Voyagers in Darkness",
                         "IsEnabled": true,
+                        "DetachmentRule": "Overwhelming Magnificence",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -224,6 +228,7 @@
                     {
                         "Name": "Black Ship Guardians",
                         "IsEnabled": true,
+                        "DetachmentRule": "Priority Quarry",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -354,6 +359,7 @@
                     {
                         "Name": "Electromartyrs",
                         "IsEnabled": true,
+                        "DetachmentRule": "Overload Machine Spirits",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -549,6 +555,7 @@
                     {
                         "Name": "Response Clade",
                         "IsEnabled": true,
+                        "DetachmentRule": "Procedural Elimination",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -646,6 +653,7 @@
                     {
                         "Name": "Machine Cult",
                         "IsEnabled": true,
+                        "DetachmentRule": "Canticles of the Omnissiah",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -773,6 +781,7 @@
                     {
                         "Name": "Pious Protectors",
                         "IsEnabled": true,
+                        "DetachmentRule": "The Emperor Protects",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1013,6 +1022,7 @@
                     {
                         "Name": "Penitents and Pilgrims",
                         "IsEnabled": true,
+                        "DetachmentRule": "Bloody Redemption",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1085,6 +1095,7 @@
                     {
                         "Name": "Khaine's Arrow",
                         "IsEnabled": false,
+                        "DetachmentRule": "Unerring Strike",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1100,6 +1111,7 @@
                     {
                         "Name": "Protector Host",
                         "IsEnabled": false,
+                        "DetachmentRule": "Determined Defence",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1115,6 +1127,7 @@
                     {
                         "Name": "Wraiths of the Void",
                         "IsEnabled": true,
+                        "DetachmentRule": "Wraith-Marked",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1180,6 +1193,7 @@
                     {
                         "Name": "Star-dancer Masque",
                         "IsEnabled": false,
+                        "DetachmentRule": "Faolchu's Last Flight",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1202,6 +1216,7 @@
                     {
                         "Name": "Voidship's Company",
                         "IsEnabled": true,
+                        "DetachmentRule": "Beseechment Codes",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1305,6 +1320,7 @@
                     {
                         "Name": "Interdiction Team",
                         "IsEnabled": true,
+                        "DetachmentRule": "Chastisor Auto-Vox",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1409,6 +1425,7 @@
                     {
                         "Name": "Embarked Regiment",
                         "IsEnabled": true,
+                        "DetachmentRule": "Get Down!",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1693,6 +1710,7 @@
                     {
                         "Name": "Tempestus Boarding Regiment",
                         "IsEnabled": true,
+                        "DetachmentRule": "Purge-Sweep Protocols",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -1830,6 +1848,7 @@
                     {
                         "Name": "Vectors of Decay",
                         "IsEnabled": true,
+                        "DetachmentRule": "Sevenfold Offerings",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2072,6 +2091,7 @@
                     {
                         "Name": "Unclean Uprising",
                         "IsEnabled": true,
+                        "DetachmentRule": "Relentless Spread",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2294,6 +2314,7 @@
                     {
                         "Name": "Arch-Contaminators",
                         "IsEnabled": true,
+                        "DetachmentRule": "Inescapable Corruption",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2406,6 +2427,7 @@
                     {
                         "Name": "Space Lane Raiders",
                         "IsEnabled": true,
+                        "DetachmentRule": "Commorrite Rivalries",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2568,6 +2590,7 @@
                     {
                         "Name": "Kabalite Corsairs",
                         "IsEnabled": true,
+                        "DetachmentRule": "Raid and Pillage",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2672,6 +2695,7 @@
                     {
                         "Name": "Ship-Killer Cult",
                         "IsEnabled": true,
+                        "DetachmentRule": "Appetite for Adulation",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2765,6 +2789,7 @@
                     {
                         "Name": "Painbringers",
                         "IsEnabled": true,
+                        "DetachmentRule": "Regenerative Agony",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -2880,6 +2905,7 @@
                     {
                         "Name": "Cult Unveiled",
                         "IsEnabled": true,
+                        "DetachmentRule": "Harassing Fire",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3034,6 +3060,7 @@
                     {
                         "Name": "Genespawn Onslaught",
                         "IsEnabled": true,
+                        "DetachmentRule": "Blessed Visages",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3134,6 +3161,7 @@
                     {
                         "Name": "Infestation Spawn - Tyranids",
                         "IsEnabled": true,
+                        "DetachmentRule": "Half-Glimpsed Shadows",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3186,6 +3214,7 @@
                     {
                         "Name": "Infestation Spawn - Genestealer Cults",
                         "IsEnabled": true,
+                        "DetachmentRule": "Half-Glimpsed Shadows",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3245,6 +3274,7 @@
                     {
                         "Name": "Void Purge Force",
                         "IsEnabled": true,
+                        "DetachmentRule": "An Urgent Duty",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3454,6 +3484,7 @@
                     {
                         "Name": "Baneslayer Strike",
                         "IsEnabled": true,
+                        "DetachmentRule": "Pre-Emptive Strike",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3592,6 +3623,7 @@
                     {
                         "Name": "Infernal Reavers",
                         "IsEnabled": false,
+                        "DetachmentRule": "Dark Rewards",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3607,6 +3639,7 @@
                     {
                         "Name": "Underdeck Uprising",
                         "IsEnabled": true,
+                        "DetachmentRule": "Fanatical Onslaught",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3724,6 +3757,7 @@
                     {
                         "Name": "Champions of Chaos",
                         "IsEnabled": true,
+                        "DetachmentRule": "Dark Purpose",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3833,6 +3867,7 @@
                     {
                         "Name": "Void Salvagers",
                         "IsEnabled": true,
+                        "DetachmentRule": "Stalwart Advance",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -3968,6 +4003,7 @@
                     {
                         "Name": "Hearthfire Strike",
                         "IsEnabled": true,
+                        "DetachmentRule": "Wrought in Wrath",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4027,6 +4063,7 @@
                     {
                         "Name": "Daemonic Incursion",
                         "IsEnabled": false,
+                        "DetachmentRule": "Unnatural Energies",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4042,6 +4079,7 @@
                     {
                         "Name": "Infernal Onslaught",
                         "IsEnabled": true,
+                        "DetachmentRule": "Brutal Entrance",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4133,6 +4171,7 @@
                     {
                         "Name": "Rotten and Rusted",
                         "IsEnabled": true,
+                        "DetachmentRule": "Toxic Miasma",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4246,6 +4285,7 @@
                     {
                         "Name": "Dread Carnival",
                         "IsEnabled": true,
+                        "DetachmentRule": "Lithe Killers",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4346,6 +4386,7 @@
                     {
                         "Name": "Pandaemoniac Inferno",
                         "IsEnabled": true,
+                        "DetachmentRule": "Living Flame",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4464,6 +4505,7 @@
                     {
                         "Name": "Tomb Ship Complement",
                         "IsEnabled": false,
+                        "DetachmentRule": "Conquest Protocols",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4479,6 +4521,7 @@
                     {
                         "Name": "Deranged Outcasts",
                         "IsEnabled": true,
+                        "DetachmentRule": "Terrifying Charge",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4564,6 +4607,7 @@
                     {
                         "Name": "Canoptek Harvesters",
                         "IsEnabled": true,
+                        "DetachmentRule": "Retribution Protocols",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4698,6 +4742,7 @@
                     {
                         "Name": "Ramship Raiders",
                         "IsEnabled": true,
+                        "DetachmentRule": "Belligerent Boarders",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -4947,6 +4992,7 @@
                     {
                         "Name": "Kaptin Killers",
                         "IsEnabled": true,
+                        "DetachmentRule": "Comin' Through",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5039,6 +5085,7 @@
                     {
                         "Name": "Starfire Cadre",
                         "IsEnabled": true,
+                        "DetachmentRule": "Markerlight Precision",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5213,6 +5260,7 @@
                     {
                         "Name": "Kroot Raiding Party",
                         "IsEnabled": true,
+                        "DetachmentRule": "Guerrilla Ambushers",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5331,6 +5379,7 @@
                     {
                         "Name": "Chosen Cabal",
                         "IsEnabled": true,
+                        "DetachmentRule": "Witchsight",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5479,6 +5528,7 @@
                     {
                         "Name": "Devoted Thralls",
                         "IsEnabled": true,
+                        "DetachmentRule": "Fervent Devotees",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5579,6 +5629,7 @@
                     {
                         "Name": "Fateseekers",
                         "IsEnabled": true,
+                        "DetachmentRule": "Methodical Conquest",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5682,6 +5733,7 @@
                     {
                         "Name": "Tyranid Attack",
                         "IsEnabled": true,
+                        "DetachmentRule": "Xeno-Terror",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5822,6 +5874,7 @@
                     {
                         "Name": "Boarding Swarm",
                         "IsEnabled": true,
+                        "DetachmentRule": "Priority Predation",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -5915,6 +5968,7 @@
                     {
                         "Name": "Biotide",
                         "IsEnabled": true,
+                        "DetachmentRule": "Unstoppable Swarm",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -6006,6 +6060,7 @@
                     {
                         "Name": "Boarding Butchers",
                         "IsEnabled": true,
+                        "DetachmentRule": "Focused Ferocity",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
@@ -6136,6 +6191,7 @@
                     {
                         "Name": "Skullsworn",
                         "IsEnabled": true,
+                        "DetachmentRule": "Reap the Tally",
                         "Enhancements": [
                             "Superior Boarding Tactics",
                             "Close-Quarters Killer",
