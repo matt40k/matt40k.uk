@@ -5,6 +5,7 @@
             {
                 "Faction": "Adeptus Astartes",
                 "IsEnabled": false,
+                "ArmyRule": "Oath of Moment",
                 "Detachments": [
                     {
                         "Name": "Boarding Strike",
@@ -15,7 +16,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Adamantine Mantle",
+                            "Clavitine Reliquary"
                         ],
                         "UnitGroups": []
                     },
@@ -28,7 +31,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Omni-Structural Auspex",
+                            "Void Warrior"
                         ],
                         "UnitGroups": []
                     },
@@ -41,7 +46,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Seal of Indomitability",
+                            "Resolute"
                         ],
                         "UnitGroups": []
                     }
@@ -50,6 +57,7 @@
             {
                 "Faction": "Adeptus Custodes",
                 "IsEnabled": true,
+                "ArmyRule": "Focused Ka'tah",
                 "Detachments": [
                     {
                         "Name": "Voyagers in Darkness",
@@ -60,7 +68,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Voidstrider",
+                            "Mantle of the Emissary"
                         ],
                         "UnitGroups": [
                             {
@@ -220,7 +230,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "The Vratine Aquila (Aura)",
+                            "Sinister Presence (Aura)"
                         ],
                         "UnitGroups": [
                             {
@@ -337,6 +349,7 @@
             {
                 "Faction": "Adeptus Mechanicus",
                 "IsEnabled": true,
+                "ArmyRule": "Close-Quarters Doctrinas",
                 "Detachments": [
                     {
                         "Name": "Electromartyrs",
@@ -347,7 +360,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Remote Lockdown",
+                            "Multi-Dimensional Auspex"
                         ],
                         "UnitGroups": [
                             {
@@ -540,7 +555,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Admonissor Shunt",
+                            "Optimised Cogitators"
                         ],
                         "UnitGroups": [
                             {
@@ -635,7 +652,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Beseech the Machine Spirits",
+                            "Harmonic Discordator"
                         ],
                         "UnitGroups": [
                             {
@@ -749,6 +768,7 @@
             {
                 "Faction": "Adepta Sororitas",
                 "IsEnabled": true,
+                "ArmyRule": "Minor Miracles",
                 "Detachments": [
                     {
                         "Name": "Pious Protectors",
@@ -759,7 +779,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Martial Discipline",
+                            "Limitless Resolve"
                         ],
                         "UnitGroups": [
                             {
@@ -997,7 +1019,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Fervent Ferocity",
+                            "Sanctification Rituals"
                         ],
                         "UnitGroups": [
                             {
@@ -1056,6 +1080,7 @@
             {
                 "Faction": "Aeldari",
                 "IsEnabled": true,
+                "ArmyRule": "Seers' Guidance",
                 "Detachments": [
                     {
                         "Name": "Khaine's Arrow",
@@ -1066,7 +1091,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Runes of Sanctuary (Psychic)",
+                            "Shieldmaster"
                         ],
                         "UnitGroups": []
                     },
@@ -1079,7 +1106,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Grace of Khaine",
+                            "Rallying Cry"
                         ],
                         "UnitGroups": []
                     },
@@ -1092,7 +1121,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Direct Guidance",
+                            "Song of Renewal"
                         ],
                         "UnitGroups": [
                             {
@@ -1155,7 +1186,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Prismatic Garb",
+                            "Path of Eldanesh"
                         ],
                         "UnitGroups": []
                     }
@@ -1164,6 +1197,7 @@
             {
                 "Faction": "Agents of the Imperium",
                 "IsEnabled": true,
+                "ArmyRule": "Imperial Insights",
                 "Detachments": [
                     {
                         "Name": "Voidship's Company",
@@ -1174,7 +1208,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Lathimon's Flock",
+                            "Heirloom Blade"
                         ],
                         "UnitGroups": [
                             {
@@ -1275,7 +1311,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Manhunter's Helm",
+                            "Vasov's Auto-Oppressor"
                         ],
                         "UnitGroups": [
                             {
@@ -1366,6 +1404,7 @@
             {
                 "Faction": "Astra Militarum",
                 "IsEnabled": true,
+                "ArmyRule": "Direct Orders",
                 "Detachments": [
                     {
                         "Name": "Embarked Regiment",
@@ -1376,7 +1415,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Rigged Blind Grenades",
+                            "Shipboard Veteran"
                         ],
                         "UnitGroups": [
                             {
@@ -1658,7 +1699,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Covert Breach",
+                            "Elimination Force"
                         ],
                         "UnitGroups": [
                             {
@@ -1782,6 +1825,7 @@
             {
                 "Faction": "Death Guard",
                 "IsEnabled": true,
+                "ArmyRule": "Slow Decay",
                 "Detachments": [
                     {
                         "Name": "Vectors of Decay",
@@ -1792,7 +1836,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Foul Constitution",
+                            "Fountaining Filth"
                         ],
                         "UnitGroups": [
                             {
@@ -2032,7 +2078,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Pox-Bearer",
+                            "Hand of Nurgle"
                         ],
                         "UnitGroups": [
                             {
@@ -2252,7 +2300,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Miasmic Odour",
+                            "Disgusting Reinvigoration"
                         ],
                         "UnitGroups": [
                             {
@@ -2351,6 +2401,7 @@
             {
                 "Faction": "Drukhari",
                 "IsEnabled": true,
+                "ArmyRule": "Feast of Pain",
                 "Detachments": [
                     {
                         "Name": "Space Lane Raiders",
@@ -2361,7 +2412,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Power and Greed",
+                            "Spiteful Demise"
                         ],
                         "UnitGroups": [
                             {
@@ -2521,7 +2574,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Dark Charisma",
+                            "Malevolent Cunning"
                         ],
                         "UnitGroups": [
                             {
@@ -2623,7 +2678,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Stimm-Fervour",
+                            "Blood-Drenched Champion"
                         ],
                         "UnitGroups": [
                             {
@@ -2714,7 +2771,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Rending Chain-Flails",
+                            "Vile Surgeon"
                         ],
                         "UnitGroups": [
                             {
@@ -2816,6 +2875,7 @@
             {
                 "Faction": "Genestealer Cults",
                 "IsEnabled": true,
+                "ArmyRule": "Insidious Ambushers",
                 "Detachments": [
                     {
                         "Name": "Cult Unveiled",
@@ -2826,7 +2886,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Master Saboteur",
+                            "Primary Detonator"
                         ],
                         "UnitGroups": [
                             {
@@ -2978,7 +3040,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Spiteful Imp",
+                            "Miasmic Fumes"
                         ],
                         "UnitGroups": [
                             {
@@ -3065,6 +3129,7 @@
             {
                 "Faction": "Great Devourer",
                 "IsEnabled": true,
+                "ArmyRule": "Auspex Ghosts",
                 "Detachments": [
                     {
                         "Name": "Infestation Spawn - Tyranids",
@@ -3075,7 +3140,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Stalking Menace",
+                            "Psi-Spoor Sensitivity"
                         ],
                         "UnitGroups": [
                             {
@@ -3125,7 +3192,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Stalking Menace",
+                            "Psi-Spoor Sensitivity"
                         ],
                         "UnitGroups": [
                             {
@@ -3171,6 +3240,7 @@
             {
                 "Faction": "Grey Knights",
                 "IsEnabled": true,
+                "ArmyRule": "Eye of the Prognosticars",
                 "Detachments": [
                     {
                         "Name": "Void Purge Force",
@@ -3181,7 +3251,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Sigil of Warding",
+                            "Tactical Haruspexy"
                         ],
                         "UnitGroups": [
                             {
@@ -3388,7 +3460,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Shield of Admonishment",
+                            "Close and Sanction"
                         ],
                         "UnitGroups": [
                             {
@@ -3513,6 +3587,7 @@
             {
                 "Faction": "Heretic Astartes",
                 "IsEnabled": true,
+                "ArmyRule": "The Forsaken",
                 "Detachments": [
                     {
                         "Name": "Infernal Reavers",
@@ -3523,7 +3598,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Voice of the Octed",
+                            "Swollen with Power"
                         ],
                         "UnitGroups": []
                     },
@@ -3536,7 +3613,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Rabble Rouser",
+                            "Vox Malevolus"
                         ],
                         "UnitGroups": [
                             {
@@ -3651,7 +3730,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Manifest Vengeance",
+                            "Dark Majesty"
                         ],
                         "UnitGroups": [
                             {
@@ -3747,6 +3828,7 @@
             {
                 "Faction": "Leagues of Votann",
                 "IsEnabled": true,
+                "ArmyRule": "Eternal Resentment",
                 "Detachments": [
                     {
                         "Name": "Void Salvagers",
@@ -3757,7 +3839,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Masterful Construction",
+                            "Obsessive Drive"
                         ],
                         "UnitGroups": [
                             {
@@ -3890,7 +3974,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Celebrated Folk Hero",
+                            "Gulyk's Stars"
                         ],
                         "UnitGroups": [
                             {
@@ -3936,6 +4022,7 @@
             {
                 "Faction": "Legiones Daemonica",
                 "IsEnabled": true,
+                "ArmyRule": "Soul Hunters",
                 "Detachments": [
                     {
                         "Name": "Daemonic Incursion",
@@ -3946,7 +4033,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Spite Made Manifest",
+                            "Geller Breach"
                         ],
                         "UnitGroups": []
                     },
@@ -3959,7 +4048,9 @@
                             "Peerless Leader",
                             "Expert Breacher",
                             "Personal Teleporter",
-                            "Trademark Weapon"
+                            "Trademark Weapon",
+                            "Worthier Skulls",
+                            "Unholy Fury"
                         ],
                         "UnitGroups": [
                             {
@@ -4368,6 +4459,7 @@
             {
                 "Faction": "Necrons",
                 "IsEnabled": true,
+                "ArmyRule": "Transdimensional Reinforcement",
                 "Detachments": [
                     {
                         "Name": "Tomb Ship Complement",
@@ -4601,6 +4693,7 @@
             {
                 "Faction": "Orks",
                 "IsEnabled": true,
+                "ArmyRule": "Void Waaagh!",
                 "Detachments": [
                     {
                         "Name": "Ramship Raiders",
@@ -4941,6 +5034,7 @@
             {
                 "Faction": "T'au Empire",
                 "IsEnabled": true,
+                "ArmyRule": "Void Combat Discipline",
                 "Detachments": [
                     {
                         "Name": "Starfire Cadre",
@@ -5232,6 +5326,7 @@
             {
                 "Faction": "Thousand Sons",
                 "IsEnabled": true,
+                "ArmyRule": "Twisting Fate",
                 "Detachments": [
                     {
                         "Name": "Chosen Cabal",
@@ -5582,6 +5677,7 @@
             {
                 "Faction": "Tyranids",
                 "IsEnabled": true,
+                "ArmyRule": "Synaptic Web",
                 "Detachments": [
                     {
                         "Name": "Tyranid Attack",
@@ -5905,6 +6001,7 @@
             {
                 "Faction": "World Eaters",
                 "IsEnabled": true,
+                "ArmyRule": "Slaughterers' Glory",
                 "Detachments": [
                     {
                         "Name": "Boarding Butchers",
