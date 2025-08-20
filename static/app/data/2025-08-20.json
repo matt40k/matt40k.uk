@@ -4,12 +4,12 @@
         "Factions": [
             {
                 "Faction": "Adeptus Astartes",
-                "IsEnabled": false,
+                "IsEnabled": true,
                 "ArmyRule": "Oath of Moment",
                 "Detachments": [
                     {
                         "Name": "Boarding Strike",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "DetachmentRule": "Drive Home the Blade",
                         "Enhancements": [
                             "Superior Boarding Tactics",
@@ -21,11 +21,397 @@
                             "Adamantine Mantle",
                             "Clavitine Reliquary"
                         ],
-                        "UnitGroups": []
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Ancient",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Apothecary",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            50
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Apothecary Biologis",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Bladeguard Ancient",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Captain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Captain In Gravis Armour",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Captain In Phobos Armour",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Captain With Jump Pack",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Chaplain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Chaplain With Jump Pack",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Judiciar",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Librarian",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Librarian In Phobos Armour",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Lieutenant",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            65
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Lieutenant In Phobos Armour",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Lieutenant In Reiver Armour",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Lieutenant With Combi-weapon",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Techmarine",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 12,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Assault Intercessor Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75,
+                                            150
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Heavy Intercessor Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100,
+                                            200
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Intercessor Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80,
+                                            160
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Tactical Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            140
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 5,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Aggressor Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Bladeguard Veteran Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Company Heroes",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            105
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Infernus Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            90,
+                                            180
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Sternguard Veteran Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100,
+                                            200
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Eradicator Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Hellblaster Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            110
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Assault Intercessors with Jump Packs",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            90,
+                                            160
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Vanguard Veterans Squad with Jump Packs",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            95,
+                                            190
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Pilum Strike Team",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "DetachmentRule": "Relentless Salvoes",
                         "Enhancements": [
                             "Superior Boarding Tactics",
@@ -37,11 +423,118 @@
                             "Omni-Structural Auspex",
                             "Void Warrior"
                         ],
-                        "UnitGroups": []
+                        "UnitGroups": [
+                            {
+                                "Limit": 3,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Lieutenant in Reiver Armour",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Lieutenant with Combi-weapon",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Phobos Captain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Phobos Librarian",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Phobos Lieutenant",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 9,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Incursor Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80,
+                                            160
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Infiltrator Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100,
+                                            200
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Reiver Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80,
+                                            160
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Terminator Assault",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "DetachmentRule": "Sacred Oath",
                         "Enhancements": [
                             "Superior Boarding Tactics",
@@ -53,7 +546,90 @@
                             "Seal of Indomitability",
                             "Resolute"
                         ],
-                        "UnitGroups": []
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Terminator Ancient",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Terminator Captain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            95
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Terminator Chaplain",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Terminator Librarian",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Terminator Assault Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            180,
+                                            360
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Terminator Squad",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            170,
+                                            340
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
