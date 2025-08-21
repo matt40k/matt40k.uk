@@ -1670,7 +1670,7 @@
                 "Detachments": [
                     {
                         "Name": "Khaine's Arrow",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "DetachmentRule": "Unerring Strike",
                         "Enhancements": [
                             "Superior Boarding Tactics",
@@ -1682,11 +1682,246 @@
                             "Runes of Sanctuary (Psychic)",
                             "Shieldmaster"
                         ],
-                        "UnitGroups": []
+                        "UnitGroups": [
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Asurmen",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            135
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Autarch",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Autarch Wayleaper",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Baharroth",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            115
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Eldrad Ulthran",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            110
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Farseer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Fuegan",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            120
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Jain Zar",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            105
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Karandras",
+                                        "IsEnabled": false,
+                                        "Points": [
+                                            500
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Maugan Ra",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Warlock",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Warlock Conclave",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55,
+                                            130
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            2,
+                                            4
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 4,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Dire Avengers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80,
+                                            160
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Fire Dragons",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            120,
+                                            220
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Howling Banshees",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            95,
+                                            190
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Striking Scorpions",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85,
+                                            150
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Swooping Hawks",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85,
+                                            170
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Warp Spiders",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            95
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            5
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Protector Host",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "DetachmentRule": "Determined Defence",
                         "Enhancements": [
                             "Superior Boarding Tactics",
@@ -1698,7 +1933,124 @@
                             "Grace of Khaine",
                             "Rallying Cry"
                         ],
-                        "UnitGroups": []
+                        "UnitGroups": [
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Autarch",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Eldrad Ulthran",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            110
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Farseer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            70
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Warlock",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            45
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Warlock Conclave",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            55,
+                                            130
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            2,
+                                            4
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 6,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Guardian Defenders",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            11
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Storm Guardians",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            100
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            11
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Dire Avengers",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            80,
+                                            160
+                                        ],
+                                        "Limit": 2,
+                                        "Models": [
+                                            5,
+                                            10
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
                         "Name": "Wraiths of the Void",
@@ -1768,7 +2120,7 @@
                     },
                     {
                         "Name": "Star-dancer Masque",
-                        "IsEnabled": false,
+                        "IsEnabled": true,
                         "DetachmentRule": "Faolchu's Last Flight",
                         "Enhancements": [
                             "Superior Boarding Tactics",
@@ -1780,7 +2132,85 @@
                             "Prismatic Garb",
                             "Path of Eldanesh"
                         ],
-                        "UnitGroups": []
+                        "UnitGroups": [
+                            {
+                                "Limit": 2,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Death Jester",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            90
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Shadowseer",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            60
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "Name": "Troupe Master",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            75
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 1,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Solitaire",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            115
+                                        ],
+                                        "Limit": 1,
+                                        "Models": [
+                                            1
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Limit": 3,
+                                "IsEnabled": true,
+                                "Units": [
+                                    {
+                                        "Name": "Troupe",
+                                        "IsEnabled": true,
+                                        "Points": [
+                                            85,
+                                            100,
+                                            190
+                                        ],
+                                        "Limit": 3,
+                                        "Models": [
+                                            5,
+                                            6,
+                                            11
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
